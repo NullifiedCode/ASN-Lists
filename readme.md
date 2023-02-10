@@ -17,8 +17,11 @@ No I did not dump your VPN clients/servers. They are publicly available on some 
 These resources down below can be used to determine if a ASN provider is malicious or is a hosting provider.
 <br>
 [Cloudflare Radar](https://radar.cloudflare.com/)
+<br>
 [2Ip](https://2ip.io/)
+<br>
 [Ipinfo.io](https://ipinfo.io/)
+<br>
 [PeeringDB](https://www.peeringdb.com/net/1264)
 
 ## License
