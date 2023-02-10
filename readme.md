@@ -5,7 +5,7 @@ This is my modifed version of [bad-asn-list](https://github.com/brianhama/bad-as
 I made this cause the one stated above is just a giant mess of ASN's nothing is sorted to proper types and what those ASN's are used for.
 
 ## Credits
-null or [NullifiedCode](https://github.com/NullifiedCode/) Creator of this tool.
+null or [NullifiedCode](https://github.com/NullifiedCode/)
 <br><br>
 [brianhama](https://github.com/brianhama/) The main idea behind this list.
 
