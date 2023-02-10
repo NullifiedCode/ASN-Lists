@@ -35,6 +35,47 @@ AS47583 Hostinger International Limited
 AS204915 Hostinger International Limited
 AS26496 GoDaddy.com, LLC
 AS30083 GoDaddy.com, LLC
+AS16892 GoDaddy.com, LLC
+AS397513 GoDaddy.com, LLC
+AS397514 GoDaddy.com, LLC
+AS397515 GoDaddy.com, LLC
+AS397516 GoDaddy.com, LLC
+AS397517 GoDaddy.com, LLC
+AS397518 GoDaddy.com, LLC
+AS397519 GoDaddy.com, LLC
+AS397520 GoDaddy.com, LLC
+AS397521 GoDaddy.com, LLC
+AS397522 GoDaddy.com, LLC
+AS398101 GoDaddy.com, LLC
+AS398102 GoDaddy.com, LLC
+AS398103 GoDaddy.com, LLC
+AS398104 GoDaddy.com, LLC
+AS398105 GoDaddy.com, LLC
+AS398106 GoDaddy.com, LLC
+AS398107 GoDaddy.com, LLC
+AS398108 GoDaddy.com, LLC
+AS398109 GoDaddy.com, LLC
+AS398110 GoDaddy.com, LLC
+AS398785 GoDaddy.com, LLC
+AS398786 GoDaddy.com, LLC
+AS398787 GoDaddy.com, LLC
+AS398788 GoDaddy.com, LLC
+AS398789 GoDaddy.com, LLC
+AS398790 GoDaddy.com, LLC
+AS398791 GoDaddy.com, LLC
+AS398792 GoDaddy.com, LLC
+AS398793 GoDaddy.com, LLC
+AS398794 GoDaddy.com, LLC
+AS400746 GoDaddy.com, LLC
+AS400747 GoDaddy.com, LLC
+AS400748 GoDaddy.com, LLC
+AS400749 GoDaddy.com, LLC
+AS400750 GoDaddy.com, LLC
+AS400751 GoDaddy.com, LLC
+AS400752 GoDaddy.com, LLC
+AS400753 GoDaddy.com, LLC
+AS400754 GoDaddy.com, LLC
+AS400755 GoDaddy.com, LLC
 AS40476 Scala Hosting LLC
 AS32244 Liquid Web, L.L.C
 AS6188 Liquid Web, L.L.C
