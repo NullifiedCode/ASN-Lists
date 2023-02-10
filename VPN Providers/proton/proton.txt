@@ -1,0 +1,33 @@
+AS212238 Datacamp Limited
+AS56704 Farice ehf
+AS209103 Proton AG
+AS39798 MivoCloud SRL
+AS136557 Host Universal Pty Ltd
+AS49981 WorldStream B.V.
+AS8473 Bahnhof AB
+AS23959 Owl Limited
+AS9009 M247 Europe SRL
+AS206804 EstNOC OY
+AS60068 Datacamp Limited
+AS4785 xTom
+AS43350 NForce Entertainment B.V.
+AS46562 Performive LLC
+AS13213 UK-2 Limited
+AS53850 GorillaServers, Inc.
+AS51765 Oy Crea Nova Hosting Solution Ltd
+AS41564 Orion Network Limited
+AS137409 GSL Networks Pty LTD
+AS199524 G-Core Labs S.A.
+AS58065 Packet Exchange Limited
+AS203020 HostRoyale Technologies Pvt Ltd
+AS19318 Interserver, Inc
+AS206446 CLOUD LEASE Ltd
+AS51430 AltusHost B.V.
+AS61272 Informacines sistemos ir technologijos, UAB
+AS396356 Latitude.sh
+AS133480 Intergrid Group Pty Ltd
+AS30058 FDCservers.net
+AS9678 HostingInside LTD.
+AS35432 Cablenet Communication Systems plc
+AS37518 Fiber Grid INC
+AS12417 Plus Hosting Grupa d.o.o.
