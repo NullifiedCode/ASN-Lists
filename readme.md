@@ -13,6 +13,14 @@ null or [NullifiedCode](https://github.com/NullifiedCode/)
 Refering to nordvpn, protonvpn, mullvad, and any others added to this list.
 No I did not dump your VPN clients/servers. They are publicly available on some links (I will not link them) but the link are from YOU guys :)
 
+# Resources
+These resources down below can be used to determine if a ASN provider is malicious or is a hosting provider.
+<br>
+[Cloudflare Radar](https://radar.cloudflare.com/)
+[2Ip](https://2ip.io/)
+[Ipinfo.io](https://ipinfo.io/)
+[PeeringDB](https://www.peeringdb.com/net/1264)
+
 ## License
 There is like no license at all. Feel free to use it wherever you need to.
 
