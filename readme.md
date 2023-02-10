@@ -11,7 +11,7 @@ null or [NullifiedCode](https://github.com/NullifiedCode/)
 
 ## Important Information
 Refering to nordvpn, protonvpn, mullvad, and any others added to this list.
-No I did not dump you VPN clients/servers. They are publicly available on some links (I will not link them)
+No I did not dump your VPN clients/servers. They are publicly available on some links (I will not link them) but the link are from YOU guys :)
 
 ## License
 There is like no license at all. Feel free to use it wherever you need to.
