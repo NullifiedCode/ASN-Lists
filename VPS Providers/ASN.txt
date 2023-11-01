@@ -126,3 +126,6 @@ AS54265 SCALEWAY US CORPORATION (SCALEWAY)
 AS53667 FranTech Solutions (BUYVM)
 AS212477 RoyaleHosting BV
 AS55990 Huawei Cloud Service data center
+AS18779 EGIHosting
+AS263702 GRUPO ZGH SPA
+AS45090 Shenzhen Tencent Computer Systems Company Limited
