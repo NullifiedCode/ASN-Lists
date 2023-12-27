@@ -1,835 +1,20 @@
-AS699 Amazon.com, Inc
-AS801 Amazon.com, Inc
-AS1442 SureHostingInternet Solutions, Inc
-AS3214 xTomGmbH
-AS3223 VoxilityLLP
-AS3561 CenturyLinkCommunications, LLC
-AS3722 NetActuate,Inc
-AS3842 InMotion Hosting, Inc
-AS4250 AlentusCorporation
-AS4323 Level3 Parent, LLC
-AS4694 IDCFrontier Inc
-AS4766 KoreaTelecom
-AS4785 xTomLimited
-AS4851 HOSTNETWORKS
-AS5577 rootSA
-AS6188 Liquid Web, L.L.C
-AS6233 xTom
-AS6718 NAVCOMMUNICATIONS SRL
-AS6724 StratoAG
-AS6870 RECONNLLC
-AS6939 HurricaneElectric LLC
-AS6982 A2Hosting, Inc
-AS7185 QuadraNetInternet Services
-AS7203 LeasewebUSA, Inc
-AS7224 Amazon.com, Inc
-AS7349 TierPoint,LLC
-AS7489 HostUSSolutions LLC
-AS7506 GMOInternet,Inc
-AS7595 ReadyspaceNetwork Pte Ltd
-AS7598 ForcepointCloud Limited
-AS7850 iHighway.net,Inc
-AS7979 Servers.com,Inc
-AS8075 MicrosoftCorporation
-AS8100 QuadraNetEnterprises LLC
-AS8455 SchubergPhilis B.V.
-AS8473 BahnhofAB
-AS8477 EchostarStudio Sp. z o.o.
-AS8556 LevantisAG
-AS8560 IONOSSE
-AS8972 HostEurope GmbH
-AS9009 M247 Europe SRL
-AS9166 CegekaNV
-AS9290 GoHosting
-AS9312 xTomHong Kong Limited
-AS9335 CATTelecom Public Company Limited
-AS9370 SAKURAInternet Inc
-AS9412 5GNETWORK OPERATIONS PTY LTD
-AS9667 5GNETWORK OPERATIONS PTY LTD
-AS9678 HostingInsideLTD.
-AS9823 PearsonAustralia Group Pty Ltd
-AS9925 PCCWIMS Limited
-AS10200 TheDigital Lab 2007 Limited
-AS10207 IntervolvePty Ltd
-AS10297 eNETInc
-AS10439 CariNet,Inc
-AS10532 RackspaceHosting
-AS10929 eStruxtureData Centers Inc
-AS11230 ManagedHosting Services, LLC
-AS11235 Itron-Hosting
-AS11274 TierPoint,LLC
-AS11508 The Constant Company, LLC (VULTR)
-AS11588 StackPath,LLC
-AS11831 eSecureData
-AS11878 tzulo,Inc
-AS12417 PlusHosting Grupa d.o.o.
-AS12586 GHOSTnetGmbH
-AS12617 SentiaDenmark A/S
-AS12876 ONLINES.A.S. (SCALEWAY)
-AS12989 StackPathLLC
-AS13209 AtomHosting SRL
-AS13213 UK-2Limited
-AS13647 NetActuate,Inc
-AS13739 DatacenterIP, LLC
-AS13909 TechieHosting, Inc
-AS13926 StrongTechnology, LLC
-AS13955 EchostarBroadcasting Corporation
-AS14061 DigitalOcean, LLC
-AS14120 oneZeroFinancial Systems, LLC
-AS14127 IlandInternet Solutions Corporation
-AS14160 PremiumHosting, Inc
-AS14244 NSIHosting
-AS14384 HOSTDESIGNS, LLC
-AS14415 HostCollective, Inc
-AS14442 Media-HostsInc
-AS14567 SpringsHosting
-AS14576 HostingSolution Ltd.
-AS14618 Amazon.com, Inc
-AS14708 WebHostChile S.A.
-AS14986 UltraHosting
-AS14987 RethemHosting LLC
-AS14992 NewtekTechnology Solutions, Inc
-AS15003 LeasewebUSA, Inc
-AS15083 InfolinkGlobal Corporation
-AS15169 Google LLC
-AS15189 VIMRO,LLC
-AS15395 RackspaceLtd.
-AS15497 "7HEAVEN"LLC
-AS15510 CompuwebCommunications Services Limited
-AS15626 ITLLLC
-AS15734 EQUINIX(SPAIN) ENTERPRISES SLU
-AS15919 Serviciosde Hosting en Internet S.A.
-AS16125 UABCherry Servers
-AS16247 M247 Ltd
-AS16262 DatacheapLLC
-AS16276 OVH SAS
-AS16284 Inq.Digital Nigeria
-AS16397 EQUINIXBRASIL
-AS16509 Amazon.com, Inc
-AS16535 EchostarPurchasing Corporation
-AS16628 DedFiberCo
-AS16862 OdessaCollege
-AS16973 T-FourServices S.A
-AS17019 JCHostInternet Services, LLC
-AS17216 DC74LLC
-AS17439 NetMagicSolutions Pvt Ltd
-AS17669 AUSTRALIANCENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD
-AS17881 InetHosting, Inc
-AS17918 AUSTRALIANCENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD
-AS17971 TMNet Sdn Bhd
-AS18120 GeminiSoftware Solutions (P) Limited
-AS18450 WebNX,Inc
-AS18570 EchoStarBroadcasting Corperation
-AS18779 EGIHosting
-AS18978 EnzuInc
-AS19084 ColoUp
-AS19133 BirdHosting Inc
-AS19234 CanadaWeb Hosting
-AS19318 Interserver,Inc
-AS19437 SECUREDSERVERS LLC
-AS19531 NodesDirect
-AS19624 DataRoom, Inc
-AS19844 SBAEdge, LLC
-AS19871 NetworkSolutions, LLC
-AS19969 Joe'sDatacenter, LLC
-AS20021 HostMySite
-AS20068 HawkHost Inc
-AS20248 Take2 Hosting, Inc
-AS20264 WebairInternet Development Company Inc
-AS20278 NexeonTechnologies, Inc
-AS20401 HostwayCorporation
-AS20448 VPNtranet,LLC
-AS20450 TrojanHosting, LLC
-AS20454 SECUREDSERVERS LLC
-AS20473 The Constant Company, LLC (VULTR)
-AS20598 AutonomousSystem number for Cyber Space,
-AS20692 MatthiasRojahn
-AS20738 HostEurope GmbH
-AS20773 HostEurope GmbH
-AS20836 CDLANs.r.l.
-AS20860 IOMARTCLOUD SERVICES LIMITED
-AS21100 ITLLLC
-AS21159 NovoServeB.V.
-AS21217 SafeHost SA
-AS21321 NetuityNetworks Sp. z o.o.
-AS21773 Hostwinds LLC
-AS21859 ZenlayerInc
-AS22152 VTXTelecom
-AS22363 PowerhouseManagement, Inc
-AS22552 eSitedSolutions
-AS22558 Liquid Web, L.L.C
-AS22611 InMotion Hosting, Inc
-AS22612 Namecheap,Inc
-AS22720 RackspaceHosting
-AS22781 StrongTechnology, LLC
-AS22903 DatabankHoldings, Ltd
-AS23033 Wowrack.com
-AS23052 PleskLoginNet
-AS23108 QuantactHosting Solutions, Inc
-AS23273 HostPapa
-AS23342 Unitedlayer,Inc
-AS23352 ServerCentral Network
-AS23535 HostRocket.com,Inc
-AS23881 UDomainWeb Hosting Company Limited
-AS23959 OwlLimited
-AS24220 IlluminateInternet Services Pty Ltd
-AS24381 HostLink
-AS24482 SG.GS
-AS24549 LayerstackLimited
-AS24558 AdityaBirla Management Corporation Limited
-AS24611 DatacenterLuxembourg S.A.
-AS24679 HostwayDeutschland GmbH
-AS24725 LLC"Hostmaster"
-AS24768 ALMOUROLTECSERVICOS DE INFORMATICA E INTERNET LDA
-AS24875 NovoServeB.V.
-AS24931 PulsantLimited
-AS24940 HetznerOnline GmbH
-AS24958 CYBERFORTLIMITED
-AS24961 myLocmanaged IT AG
-AS24971 MasterInternet s.r.o.
-AS24997 CaucasusDigital Network LTD
-AS25048 DSNETLtd
-AS25163 21stCentury Technologies Limited
-AS25260 QualityHostingAG
-AS25369 HydraCommunications Ltd
-AS25379 PEKITELLtd.
-AS25532 LLC"MASTERHOST"
-AS25642 TheFrohman Group Inc
-AS25780 HugeServerNetworks, LLC
-AS25820 IT7Networks Inc
-AS25926 HostUS
-AS26277 LasVegas NV Datacenter
-AS26347 NewDream Network, LLC
-AS26481 RebelHosting
-AS26496 GoDaddy.com,LLC
-AS26978 QualityTechnology Services, LLC
-AS27175 AtNetHostLLC
-AS27223 BareMetal Hosting
-AS27229 Webhosting.Net,Inc
-AS27257 WebairInternet Development Company Inc
-AS27357 RackspaceHosting
-AS27589 MOJOHOST
-AS27597 Siteserver,Inc
-AS27640 GIGASHOSTING USA, LLC
-AS28099 iHostingServicios Internet Ltda.
-AS28110 NAVEGALOS.A.
-AS28216 HostOne Servicos de Internet Ltda
-AS28333 LocalDatacenter Soluções em Comunicação Ltda.
-AS28747 EasyhostBVBA
-AS28753 LeasewebDeutschland GmbH
-AS28855 Octopuces.a.r.l.
-AS28997 NedcompHosting B.V.
-AS29066 HostEurope GmbH
-AS29067 LLC"Hostmaster"
-AS29097 HostpointAG
-AS29119 ServiHostingNetworks S.L.
-AS29140 HostserverGmbH
-AS29182 JSCIOT
-AS29302 HostingServices Inc
-AS29311 SolvinityB.V.
-AS29331 ForsikringensDatacenter A/S
-AS29447 ONLINES.A.S. (SCALEWAY)
-AS29452 SecuraHosting Ltd
-AS29465 MTNNIGERIA Communication limited
-AS29550 SimplyTransit Ltd
-AS29691 NineInternet Solutions AG
-AS29713 ReliableHosting Services
-AS29748 QualityTechnology Services, LLC
-AS29802 HIVELOCITY,Inc
-AS29838 AtlanticMetro Communications II, Inc
-AS29854 WestHost,Inc
-AS29869 HostRocket.com,Inc
-AS29883 InternetHosting Servers
-AS30058 FDCservers.net
-AS30083 GoDaddy.com,LLC
-AS30176 PriorityColo Inc
-AS30235 TwinserversHosting Solutions Inc
-AS30475 HandyNetworks, LLC
-AS30633 LeasewebUSA, Inc
-AS30693 EonixCorporation
-AS30736 ASERGOScandinavia ApS
-AS30849 Research-and-productioncompany Host Ltd
-AS30900 SternforthLtd.
-AS30998 NetcomAfrica Limited
-AS31103 KeywebAG
-AS31240 FilancoLLC
-AS31472 VoiceHostLtd
-AS31590 Rackhosting.comApS
-AS31659 BelowZero Hosting Ltd.
-AS31981 BlueTowerHosting LLC
-AS32097 WholeSaleInternet, Inc
-AS32181 GigeNET
-AS32244 Liquid Web, L.L.C
-AS32306 FalckUSA, Inc
-AS32338 HostiserverLtd
-AS32400 HostwayServices, Inc
-AS32475 SingleHopLLC
-AS32489 AmanahTech Inc
-AS32613 iWebTechnologies Inc
-AS32647 CrucialWeb Hosting, Ltd.
-AS32740 SliquaEnterprise Hosting, Inc
-AS32780 HostingServices, Inc
-AS32911 PulsantLTD
-AS33070 RackspaceHosting
-AS33083 AxcelXTechnologies LLC
-AS33182 HostDime.com,Inc
-AS33251 TierPoint,LLC
-AS33260 MivaMerchant, Inc
-AS33302 Data102
-AS33322 NetworkData Center Host, Inc
-AS33330 CloudRadiumL.L.C
-AS33387 Nocix,LLC
-AS33438 StackPath,LLC
-AS33480 WebWerks
-AS33552 FluidHosting LLC
-AS33569 ALLHOSTSHOP.COM
-AS33724 VOLICO
-AS33785 CityNet Telecom
-AS33891 Core-BackboneGmbH
-AS34305 BaseIP B.V.
-AS34432 ProfihostGmbH
-AS34541 OnlineSolutions Oy
-AS34649 HOST365LIMITED
-AS34745 TeleWareHosted Services Ltd.
-AS34971 Prometeusdi Daniela Agro
-AS34989 ServeTheWorldAS
-AS35278 SPRINTHOST.RULLC
-AS35295 JSC"RU-CENTER"
-AS35366 ISPproInternet KG
-AS35415 WebzillaB.V.
-AS35432 CablenetCommunication Systems plc
-AS35467 DataDienstenFryslan B.V.
-AS35470 SignetB.V.
-AS35540 OVH SAS
-AS35662 RedstationLimited
-AS35672 HostRoyale Technologies Pvt Ltd
-AS35908 KryptTechnologies
-AS35913 DediPath
-AS35914 ArmorDefense Inc
-AS35916 MULTACOMCORPORATION
-AS35974 QualityTechnology Services, LLC
-AS36007 Kamatera, Inc
-AS36024 TierPoint,LLC
-AS36114 VegasNAP,LLC
-AS36236 NetActuate,Inc
-AS36290 TheCable of St. Kitts
-AS36351 SoftLayerTechnologies Inc
-AS36352 ColoCrossing
-AS36408 CDNetworksInc
-AS36536 Enterhost
-AS36666 GloboTechCommunications
-AS36791 PortlandInternet Hosting LLC
-AS36873 AirtelNetworks Limited
-AS36887 DIRECTON PC LTD
-AS36920 KKONTechnologies Ltd
-AS36970 IPARTNERSLIMITED
-AS37018 GalaxyBackbone PLC
-AS37088 VDTCOMMUNICATIONS LIMITED
-AS37153 Xneelo(Pty) Ltd
-AS37170 Universityof Lagos
-AS37209 HyperiaLimited
-AS37230 SwifttalkLimited
-AS37248 Phase3Telecom Limited
-AS37269 InformationConnectivity Solutions Limited
-AS37280 BroadBased Communications Limited
-AS37308 SteamBroadcasting and Communications Limited
-AS37347 NGCOM
-AS37377 FUTURECOMLIMITED
-AS37472 NigerianCommunications Satellite Ltd
-AS37506 ZinoxTelecommunications Limited
-AS37518 FiberGrid INC
-AS37521 InternetSolutions Nigeria Limited
-AS37540 WinrockNigeria Limited
-AS37661 NigerianResearch and Education Network Limited by Guarantee
-AS37692 NetStackLtd
-AS37714 BITFLUXCOMMUNICATIONS LIMITED
-AS38001 NewMediaExpress Pte Ltd
-AS38107 CDNetworks
-AS38279 InternationalOrganization for Migration
-AS38421 MiraeAsset Investment Management Co., Ltd.
-AS38731 Vietel- CHT Compamy Ltd
-AS38894 manageNETPty Ltd
-AS38895 Amazon.com, Inc
-AS39020 ComviveServidores S.L.
-AS39326 HighSpeedOffice Limited
-AS39351 31173Services AB
-AS39392 SH.czs.r.o.
-AS39451 MelbourneServer Hosting Ltd
-AS39458 RealHosts Limited
-AS39486 HostRoyale Technologies Pvt Ltd
-AS39572 DataWebGlobal Group B.V.
-AS39690 SCITNS.NET SRL
-AS39704 CJ2Hosting B.V.
-AS39756 EASYHOSTSRL
-AS39798 MivoCloudSRL
-AS39839 DKHostmaster A/S
-AS39845 2Cloud Ltd.
-AS40021 ContaboInc
-AS40156 TheOptimal Link Corporation
-AS40244 TurnkeyInternet Inc
-AS40281 QWK.netHosting, L.L.C.
-AS40374 HighDensity Hosting, Inc
-AS40438 CanhostInc
-AS40476 ScalaHosting LLC
-AS40539 HostingConsulting, Inc
-AS40676 PsychzNetworks
-AS40715 Cologix,Inc
-AS40728 GearHost,Inc
-AS40819 Liquid Web, L.L.C
-AS40824 WZCommunications Inc
-AS40861 ParadiseNetworks LLC
-AS41062 ProstoHostingLTD
-AS41079 Cyber_FolksS.A.
-AS41369 ValttiKumppanit Oy
-AS41427 Datacenterd.o.o.
-AS41436 KamateraInc
-AS41562 Host4allSarl
-AS41564 OrionNetwork Limited
-AS41653 AquaRay SAS
-AS41665 TehnologiiBudushego LLC
-AS42120 MODITInformatikai Zrt.
-AS42160 DCSTAR nv
-AS42210 NetActuateInc
-AS42244 eServers.r.o.
-AS42311 PatrickGaertke
-AS42331 PEFreehost
-AS42399 JSC"RU-CENTER"
-AS42400 NexthopAS
-AS42418 team.blueDenmark A/S
-AS42442 AdacorHosting GmbH
-AS42465 ForcepointCloud Ltd
-AS42473 ANEXIAInternetdienstleistungs GmbH
-AS42612 DinaHostingS.L.
-AS42622 VidencaAB
-AS42695 CityNetwork International AB
-AS42699 managedhosting.deGmbH
-AS42705 TaliaLimited
-AS42708 GleSYSAB
-AS42730 EVANZOe-commerce GmbH
-AS42776 IT Hands LLC
-AS42831 UKDedicated Servers Limited
-AS43021 CertitHosting Handelsbolag
-AS43146 "Domainnames registrar REG.RU", Ltd
-AS43198 GCINetwork Solutions Limited
-AS43289 TrabiaSRL
-AS43317 FNKLLC
-AS43350 NForceEntertainment B.V.
-AS43357 OwlLimited
-AS43472 HostingMaxLTD
-AS43513 SiaNano IT
-AS43541 VSHostings.r.o.
-AS43620 DigitalSpace Group Limited
-AS44050 PetersburgInternet Network ltd.
-AS44066 diva-eDatacenters GmbH
-AS44398 ITRELATION AS
-AS44901 BelcloudLTD
-AS45102 Alibaba(US) Technology Co., Ltd.
-AS45152 ZoneNetworks Pty Ltd
-AS45179 SiteTechSolutions Limited
-AS45187 Rackspace.comHong Kong Limited
-AS45201 NexonAsia Pacific Pty Ltd
-AS45382 EHOSTICT
-AS45470 8To Infinity Pte Ltd
-AS45481 DigitalSense Hosting Pty Ltd
-AS45486 HostCorpInternet
-AS45577 IntervolvePty Ltd
-AS45671 ServersAustralia Pty. Ltd
-AS45693 Asia Pacific Network Information Centre
-AS45815 ESDSSoftware Solution Limited.
-AS45887 GPLHostLLC
-AS45899 VietnamPosts and Telecommunications (VNPT)
-AS46177 SimpleCDNTechnologies, Inc
-AS46260 MEDHOST,Inc
-AS46261 QuickPacket,LLC
-AS46407 The Constant Company, LLC (VULTR)
-AS46430 TELXInc
-AS46433 EBOUNDHOST.com
-AS46475 LimestoneNetworks, Inc
-AS46516 HostRoyale Technologies Pvt Ltd
-AS203020 HostRoyale Technologies Pvt Ltd
-AS35672 HostRoyale Technologies Pvt Ltd
-AS39486 HostRoyale Technologies Pvt Ltd
-AS46516 HostRoyale Technologies Pvt Ltd
-AS133499 HostRoyale Technologies Pvt Ltd
-AS134450 HostRoyale Technologies Pvt Ltd
-AS204287 HostRoyale Technologies Pvt Ltd
-AS396931 HostRoyale Technologies Pvt Ltd
-AS46562 PerformiveLLC
-AS46606 Unified Layer
-AS46664 VolumeDrive
-AS46805 InterConnects Inc
-AS46816 DirectSpaceNetworks, LLC
-AS46844 Sharktech
-AS46873 HostColor
-AS46945 EliteHosts
-AS47143 TodayhostLimited
-AS47161 StadtwerkeFeldkirch
-AS47172 GreenhostBV
-AS47205 TeliaLietuva, AB
-AS47328 TrueRecords Inc
-AS47385 JSC"RU-CENTER"
-AS47447 23MGmbH
-AS47549 HostingSystems Ltd
-AS47577 RighthostingLtd
-AS47583 HostingerInternational Limited
-AS47588 TELCOMMUNICATIONS L.L.C.
-AS47625 PaulDavid Hughes trading as Hosting Systems
-AS47810 ProserviceLLC
-AS48093 WeblandAB
-AS48337 Linode,LLC
-AS48446 HostersiSp. z o.o.
-AS48812 DataCenterNoord BV
-AS48825 Fast4networksLtd
-AS48896 dhosting.plSp. z o.o.
-AS48950 GLOBALCOLOCATION LIMITED
-AS49313 Seva-HostLtd
-AS49349 Dotsi,Unipessoal Lda.
-AS49453 GlobalLayer B.V.
-AS49485 HighAvailability Hosting Limited
-AS49505 OOO"Network of data-centers "Selectel"
-AS49532 EonixCorporation
-AS49544 i3D.netB.V
-AS49581 FerdinandZink trading as Tube-Hosting (100UP)
-AS49693 Best-HosterGroup Co. Ltd.
-AS49815 Host2LTD
-AS49834 BestHosting Company, LLC
-AS49949 24Solutions AB
-AS49981 WorldStreamB.V.
-AS50297 Infium,UAB
-AS50304 BlixSolutions AS
-AS50465 IQHostLtd
-AS50608 STISEngineering LLC
-AS50613 AdvaniaIsland ehf
-AS50655 ItsHosted
-AS50673 ServeriusHolding B.V.
-AS50872 LOCALHOSTd.o.o.
-AS50915 LLC"Asia-Unicom"
-AS50926 AXARNETCOMUNICACIONES, S.L.
-AS50968 Hostmaster,Ltd.
-AS50986 TeleserviceBredband Skane AB
-AS51050 H4HostingBV
-AS51109 SiaNano IT
-AS51159 ThinkOne Communications Ltd
-AS51167 ContaboGmbH
-AS51191 XirraGmbH
-AS51241 IRANPOST Company
-AS51248 Host-Telecom.coms.r.o.
-AS51290 HOSTEAMS.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
-AS51294 HUBARAhosting solutions, S.L.
-AS51395 DatasourceAG
-AS51430 AltusHostB.V.
-AS51698 "ActiveHostRU" LLC
-AS51731 GTTa.s.
-AS51747 InternetVikings International AB
-AS51765 OyCrea Nova Hosting Solution Ltd
-AS51852 PrivateLayer INC
-AS51862 IONOSSE
-AS52048 DataClubS.A.
-AS52173 SiaNano IT
-AS52219 Servery cloud, S.L.U
-AS52236 G2KARGENTINA S.A.
-AS52270 ELSERVERS.R.L
-AS52321 Fideicomisode Administración Datacenter Capitalinas
-AS52335 ColombiaHosting
-AS52347 HOSTCLICK,de DUCA GRACIELA MIRTA
-AS52423 DataMiners S.A. ( Racknation.cr )
-AS52465 WNetInternet y Hosting
-AS52674 AVATODATACENTER SA
-AS52925 AscentyData Centers e Telecomunicações S/A
-AS53013 WI X NET DO BRASIL LTDA - ME
-AS53055 DIMENOCSERVICOS DE INFORMATICA LTDA
-AS53057 RedeHostInternet Ltda.
-AS53101 SIANETDatacenter e Provedores Ltda-ME
-AS53221 ENGETRONICSINTERNET DATACENTER
-AS53225 IPGLOBEINTERNET LTDA
-AS53281 ClearpathSolutions Group (FAIRFAX CO)
-AS53332 C2Hosting,LLC
-AS53340 VegasNAP,LLC
-AS53342 DelcoAutomation Inc
-AS53370 dotCOMhost
-AS53559 KSTNetworks
-AS53589 PlanetHoster
-AS53597 HoyosConsulting LLC
-AS53667 FranTechSolutions
-AS53755 InputOutput Flood LLC
-AS53824 Liquid Web, L.L.C
-AS53850 GorillaServers,Inc
-AS53914 GenesisHosting Solutions, LLC
-AS53918 HostHotels and Resorts, L.P.
-AS54104 netDNA
-AS54203 StrongTechnology, LLC
-AS54265 SCALEWAYUS CORPORATION
-AS54290 Hostwinds LLC
-AS54455 MadeITInc
-AS54489 CoreSpace,Inc
-AS54500 EGIHosting
-AS54527 AstuteHosting Inc
-AS54540 HIVELOCITY,Inc
-AS54555 HostDuplex, LLC
-AS54641 InMotion Hosting, Inc
-AS54817 WebbyEnterprises LLC
-AS54825 PacketHost, Inc
-AS54839 IntelliracksManaged Hosting
-AS54913 Kamatera, Inc
-AS55051 EBOUNDHOST.com
-AS55225 RoadrunnerWireless Internet Services, LLC
-AS55229 WhiteSands Hosting
-AS55286 B2Net Solutions Inc
-AS55293 A2Hosting, Inc
-AS55536 PacswitchGlobe Telecom Limited
-AS55720 GigabitHosting Sdn Bhd
-AS55761 COLOCATIONHOSTING SDN. BHD.
-AS55799 TechAvenueSdn Bhd
-AS55933 CloudieLimited
-AS55967 BeijingBaidu Netcom Science and Technology Co., Ltd.
-AS56106 ZoneNetworks Pty Ltd
-AS56110 EverdataTechnologies Pvt Ltd
-AS56322 ServerAstraKft.
-AS56617 ZinkovaIryna Valeriivna
-AS56630 MelbikomasUAB
-AS56704 Fariceehf
-AS56732 HOSTINETS.L.U.
-AS56784 Limitedliability company "MultiHOST MSK"
-AS56934 IEZhemoedov Sergey Mihaylovich
-AS57043 HOSTKEYB.V.
-AS57169 EDISGmbH
-AS57172 GlobalLayer B.V.
-AS57230 AriaWeb Development LLC
-AS57286 GIGASHOSTING S.A.
-AS57345 Marquard& Bahls AG
-AS57363 CDNvideoLLC
-AS57682 TOVHOST VDS
-AS57752 NORMHOSTSAS
-AS57773 1AccessSweden AB
-AS57858 InterConnects Inc
-AS57879 EXIMPRODSERVICII SUPORT SRL
-AS58065 PacketExchange Limited
-AS58073 YISPB.V.
-AS58113 NHM- S.R.L.
-AS58305 SYNLTD
-AS58797 CarpathiaHosting
-AS58922 MicrochannelHosting Pty Ltd
-AS58936 ManagedHosted Applications Limited
-AS59135 PTSuraloka Digital Kreatif
-AS59253 LeasewebAsia Pacific pte. ltd.
-AS59349 GMO-Z.COMPTE. LTD.
-AS59432 GINERNETS.L.
-AS59504 LLCVpsville
-AS59554 DatacenterGroningen B.V.
-AS59615 SIAServerum
-AS59632 SCPIDGIN HOST SRL
-AS59677 SMARTTELECOM MEDIA SRL
-AS59705 VeberLimited
-AS59729 ITLLLC
-AS59764 Atlantic.Net,Inc
-AS59791 LinQhostB.V.
-AS59795 LucasRolff, trading as Hosting4Real
-AS59816 SafeHosts Internet LLP
-AS59854 H88WEB HOSTING S.R.L.
-AS60011 MythicBeasts Ltd
-AS60068 DatacampLimited
-AS60117 HostSailor Ltd
-AS60118 CyberSmart Solutions S.R.L
-AS60404 TheInfrastructure Group B.V.
-AS60476 My.comB.V.
-AS60485 InterConnects Inc
-AS60505 SpokkieB.V.
-AS60558 PHOENIXNAP, LLC
-AS60567 DataClubS.A.
-AS60739 PureIP Limited
-AS60781 LeaseWebNetherlands B.V.
-AS60800 NetwiseHosting Ltd
-AS61102 InterhostCommunication Solutions Ltd.
-AS61107 TOONBOXSTUDIO LTD
-AS61147 CallHostedB.V.
-AS61157 PlusServerGmbH
-AS61272 Informacinessistemos ir technologijos, UAB
-AS61280 FGUP"GRCHC"
-AS61317 IPXOUK LIMITED
-AS61412 AltaLingua SRL
-AS61440 SENTRIGLOBALLTD
-AS62026 FINKTELEKOMUNIKASYON HIZMETLERI TICARET LIMITED SIRKETI
-AS62049 PentaCorporate Hosting Ltd
-AS62071 DatahostSRL
-AS62082 HostlandLTD
-AS62088 ForestNetLLC
-AS62217 VintersIT Ltd
-AS62240 ClouviderLimited
-AS62282 UABRakrejus
-AS62310 managedhosting.deGmbH
-AS62370 Snel.comB.V.
-AS62471 SupremeBytes,LLC
-AS62540 DrakeHoldings LLC
-AS62563 GLOBALTELEHOSTCorp.
-AS62567 DigitalOcean, LLC
-AS62605 UntangledTechnology, LLC
-AS62651 StrongTechnology, LLC
-AS62756 HostRocket.com,Inc
-AS62785 Amazon.comServices, LLC
-AS62838 RepriseHosting
-AS62899 ClarityWeb Hosting Inc
-AS63018 Dedicated.com
-AS63119 InterConnects Inc
-AS63128 StrongTechnology, LLC
-AS63199 CDSGlobal Cloud Co., Ltd
-AS63213 AstuteHosting Inc
-AS63473 HostHatch,LLC
-AS63916 TechavenueInternational Ltd
-AS63949 Linode, LLC
-AS64022 Kamatera, Inc
-AS64200 VIVID-HOSTINGLLC
-AS64245 DigitalFyreInternet Solutions, LLC
-AS64484 HexanodeSARL
-AS131199 NexeonTechnologies, Inc
-AS132070 IntervolvePty Ltd
-AS132071 IntervolvePty Ltd
-AS132225 ChinaTelecom
-AS132425 APCHosting Pte Ltd
-AS132509 DIGIWEBADVANCED HOSTING LIMITED
-AS132717 NxtGenDatacenter & Cloud Technologies Pvt. Ltd.
-AS132779 RackBankDatacenters Private Ltd
-AS132816 SimplerCloudPte Ltd
-AS132869 M.ANetwork Service
-AS133120 HostedNetwork Pty. Ltd.
-AS133143 MedihostSolutions Pty Ltd
-AS133165 DigitalOcean, Inc
-AS133229 SKIPLLC
-AS133296 WebWerks India Pvt. Ltd.
-AS133393 NakiHost Limted
-AS133480 IntergridGroup Pty Ltd
-AS133499 GKSComputers Sdn Bhd
-AS133752 LeasewebAsia Pacific pte. ltd.
-AS133795 The Constant Company, LLC (VULTR)
-AS134450 HostRoyaleTechnologies Pvt Ltd
-AS134451 NewMediaExpress Pte Ltd
-AS135085 Hostwinds LLC
-AS135340 DigitalOcean, Inc
-AS135822 OviHosting Pvt Ltd
-AS136258 BrainStormNetwork, Inc
-AS136557 HostUniversal Pty Ltd
-AS136787 TEFINCOMS.A.
-AS137409 GSLNetworks Pty LTD
-AS141039 TEFINCOMS.A.
-AS141995 ContaboAsia Private Limited
-AS147049 PacketHubS.A.
-AS196645 LTDHOSTPRO LAB
-AS196745 DatacentaHosting Ltd
-AS196827 CONSCIADANMARK A/S
-AS197155 ArtnetSp. z o.o.
-AS197328 IstanbuldcVeri Merkezi Ltd Sti
-AS197395 ARKB HOSTING BV
-AS197439 SylonHosting GmbH
-AS197648 CLOUDLAYER8LIMITED
-AS197706 KeminetSHPK
-AS197902 HostnetB.V.
-AS197914 EcritelSASU
-AS198047 HostEurope GmbH
-AS198153 "SOCIETATD'ESTUDIS INFORMATICS I D'ORGANITZACIO, SOCIETAT ANONIMA" (SEIDOR)
-AS198171 Webglobe,s.r.o.
-AS198313 SystemhostLimited
-AS198347 Game-HostingGH AB
-AS198414 Cyber_FolksS.A.
-AS198432 IpcoreDatacenters S.L
-AS198651 HOSTLINE,UAB
-AS198968 CyberneticosHosting SL
-AS199129 Nextpoint Host EOOD.
-AS199213 SentiaDenmark A/S
-AS199481 Node4Hosting Limited
-AS199524 G-CoreLabs S.A.
-AS199653 ArubaSAS
-AS199733 Extrahosts.r.o
-AS199883 ArubaCloudLimited
-AS199990 LOCALHOSTAS
-AS199997 IpponHosting SARL
-AS200000 HostingUkraine LTD
-AS200019 ALEXHOSTSRL
-AS200039 HydraCommunications Ltd
-AS200130 DigitalOcean, LLC
-AS200147 HostingTechniques Limited
-AS200532 LLP"Kompaniya Hoster.KZ"
-AS200698 Globalhostd.o.o.
-AS200904 FOXCLOUDLLP
-AS201011 AS33891Netzbetrieb GmbH
-AS201200 SuperHosting.BGLtd.
-AS201229 DigitalOcean, LLC
-AS201449 DigitalAbsolut Business - Servidor, Virtualizacao, Cluster, Datacenters e Telecomunicacoes, Lda
-AS201525 HZHosting Ltd
-AS201553 Volalos del Internet S.L.
-AS201597 2invisionManaged Services B.V.
-AS201630 QHOSTERLTD.
-AS201682 Liquid Web B.V.
-AS201702 skHosting.eus.r.o.
-AS201709 HanDSHanse Datacenter Services GmbH
-AS201862 VMhostsLtd
-AS201983 AnslutenHosting i Sverige AB
-AS202018 DigitalOcean, LLC
-AS202023 LLHostInc
-AS202053 UpCloudLtd
-AS202109 DigitalOcean, LLC
-AS202836 COMMUNEDE LA VALETTE DU VAR
-AS203020 HostRoyaleTechnologies Pvt Ltd
-AS203523 VirtonoNetworks SRL
-AS203629 SIBNETs.r.o.
-AS204196 AbelohostBV
-AS204287 HostRoyaleTechnologies Pvt Ltd
-AS204548 KamateraInc
-AS204915 HostingerInternational Limited
-AS205053 AsimiaDamaskou
-AS205119 TELEKSDOOEL Skopje
-AS205301 SCITNS.NET SRL
-AS206446 CLOUDLEASE Ltd
-AS206804 EstNOCOY
-AS206898 ServerHosting Pty Ltd
-AS207137 PacketHubS.A.
-AS207990 HostRoyaleTechnologies Pvt Ltd
-AS209103 ProtonAG
-AS210329 KamateraInc
-AS210632 FloofyHosting LLC
-AS212238 DatacampLimited
-AS212317 HetznerOnline GmbH
-AS212513 BernhardJosef Stelzl
-AS213230 HetznerOnline GmbH
-AS213277 ALMOUROLTECSERVICOS DE INFORMATICA E INTERNET LDA
-AS262170 Visualhosting.net
-AS262287 Latitude.shLTDA
-AS262603 GXINTERNET E WEB HOSTING SERV DE INFORMATICA LTDA
-AS262978 Centrode Tecnologia Armazem Datacenter Ltda.
-AS262990 VIRTUALCENTER HOSTING TECNOLOGIA EIRELI
-AS263032 EMPIRESERVICOS DE INTERNET LTDA
-AS263093 EnduranceGroup Brasil Hospedagem de Sites LTDA
-AS263237 PowerHostTelecom SPA
-AS263702 GRUPOZGH SPA
-AS268581 QNAXLTDA
-AS327705 FederalUniversity of Technology, Akure(FUTA)
-AS327784 FidelityBank PLC
-AS327813 VIDOLUGroup Pty Ltd-Web4Africa
-AS327942 LANDMARKUNIVERSITY OMU-ARAN
-AS328035 Zeta-webNigeria Limited
-AS393326 EpicGames Inc
-AS393406 DigitalOcean, LLC
-AS394256 TechFutures Interactive Inc
-AS394330 LTDBroadband LLC
-AS394362 DigitalOcean, LLC
-AS394380 LeasewebUSA, Inc
-AS395089 HextetSystems
-AS395111 KVCHOSTING.COMLLC
-AS395978 SANTACLARA VALLEY WATER DISTRICT PUBLIC FACILITIES FINANCING CORPORATION
-AS396356 Latitude.sh
-AS396931 HostRoyale Technologies Pvt Ltd
-AS396948 Kamatera, Inc
-AS396949 Kamatera, Inc
-AS396982 Google LLC
+AS1 Level 3 Parent, LLC
 AS101 University of Washington
 AS10143 Exetel Pty Ltd
+AS102 National Science Foundation
 AS1024 12393239 Canada Inc
 AS10242 US Internet Corp
+AS104 University of Colorado at Boulder
 AS10489 Armour Cloud, LLC
 AS10796 Charter Communications Inc
+AS109 CISCO SYSTEMS, INC.
+AS10929 eStruxture Data Centers Inc.
 AS10961 Boston GigaPoP
 AS10996 Concorde inc.
 AS1101 SURF B.V.
 AS1102 SURF B.V.
 AS1103 SURF B.V.
+AS112 DNS-OARC
 AS11232 Midcontinent Communications
 AS1133 SURF B.V.
 AS11351 Charter Communications Inc
@@ -843,7 +28,10 @@ AS11492 CABLE ONE, INC.
 AS11550 Smithville Digital, LLC
 AS11572 PhoenixNAP LLC
 AS11796 Airstream Communications, LLC
+AS118 DoD Network Information Center
 AS11847 GoNetSpeed
+AS11878 tzulo, inc.
+AS12 New York University
 AS1205 University Linz
 AS1208 DoD Network Information Center
 AS12083 WideOpenWest Finance LLC
@@ -860,11 +48,14 @@ AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.
 AS12360 KEVAG Telekom GmbH
 AS1239 Sprint
 AS12392 VOO S.A.
+AS1241 Nova Telecommunications & Media Single Member S.A
+AS12417 Plus Hosting Grupa d.o.o.
 AS12479 Orange Espagne SA
 AS1248 HERE Global BV
 AS12488 Krystal Hosting Ltd
 AS1249 Five Colleges Network
 AS12496 Infinity Developments Limited
+AS125 Honeywell International, Inc.
 AS12508 Rainside s.r.o.
 AS1255 Smith College
 AS12552 GlobalConnect AB
@@ -883,6 +74,8 @@ AS12759 Stephan Fuss trading as SoftCom Datensysteme
 AS12767 T-Mobile Czech Republic a.s.
 AS12824 home.pl S.A.
 AS12874 Fastweb SpA
+AS12876 SCALEWAY S.A.S.
+AS13 Headquarters, USAISC
 AS13022 Streams Telecommunicationsservices GmbH
 AS1303 Renater
 AS13030 Init7 (Switzerland) Ltd.
@@ -890,21 +83,29 @@ AS13036 T-Mobile Czech Republic a.s.
 AS13037 Zen Internet Ltd
 AS13045 htp GmbH
 AS13046 ISKON INTERNET d.d. za informatiku i telekomunikacije
+AS131 University of California, Santa Barbara
+AS1311 BARRA
 AS13110 INEA sp. z o.o.
 AS1312 Virginia Polytechnic Institute and State Univ.
 AS13124 A1 Bulgaria EAD
 AS1315 Imperial PFS
 AS13156 NOWO COMMUNICATIONS, S.A.
 AS13188 CONTENT DELIVERY NETWORK LTD
+AS132 Air Force Systems Networking
+AS1321 Advanced Networks & Services Inc.
+AS13213 UK-2 Limited
 AS13233 21TORR GmbH
 AS132335 LeapSwitch Networks Pvt Ltd
 AS13285 TalkTalk Communications Limited
 AS13315 Harvard Business School
 AS133159 Mammoth Media Pty Ltd
 AS133206 DGTEK PTY LTD
+AS13339 Amaya Gaming Group Inc
 AS133398 Tele Asia Limited
+AS13348 CIGNA
 AS133481 AIS Fibre
 AS13367 Comcast Cable Communications, LLC
+AS133752 Leaseweb Asia Pacific pte. ltd.
 AS13435 Community Health Choice, Inc.
 AS134351 Leaseweb Japan K.K.
 AS13469 Stingray
@@ -918,8 +119,11 @@ AS13541 Siemens Industry Software Inc.
 AS135411 Red Grapes Pte Ltd
 AS1360 Mayfield Electric & Water Systems
 AS136052 PT Cloud Hosting Indonesia
+AS13625 CALGAH Computer Systems and Management Ltd
+AS136258 BrainStorm Network, Inc
 AS13692 Douglas FastNet
 AS13693 Vexus Fiber
+AS137 Consortium GARR
 AS137085 Ani Broadband Service Pvt Ltd
 AS13744 TYNDALE HOUSE PUBLISHERS
 AS137443 Anchnet Asia Limited
@@ -928,9 +132,13 @@ AS1380 McVEAN Trading & Investments, LLC
 AS13806 NCR Corporation
 AS138062 PT. Awan Kilat Semesta
 AS13977 Consolidated Communications, Inc.
+AS14 Columbia University
+AS140 DoD Network Information Center
 AS14007 Skyway West
 AS1403 EBOX
 AS140599 COMFAC CORPORATION
+AS1406 Motorola Inc
+AS14061 DigitalOcean, LLC
 AS1407 Quotemedia
 AS14078 Voicenetpulse Telecom Inc.
 AS140787 LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED
@@ -940,51 +148,76 @@ AS1415 Christus Health
 AS14155 Rural Telephone Service Co, Inc.
 AS14196 Oath Holdings Inc.
 AS141968 PT Industri Kreatif Digital
+AS14199 Scholastic Inc.
+AS141995 Contabo Asia Private Limited
 AS1420 STL OFFICE SOLUTIONS, INC.
 AS14203 Juniper Networks, Inc.
 AS142036 Hosteons Pte. Ltd.
 AS14277 GiGstreem
 AS14536 sol.net Network Services
+AS14618 Amazon.com, Inc.
 AS14670 WHG Hosting Services Ltd
+AS149 DoD Network Information Center
 AS149440 Evoxt Enterprise
 AS14956 RouterHosting LLC
 AS15108 Allo Communications LLC
 AS15133 Edgecast Inc.
 AS151338 POLONETWORK LIMITED
+AS153 Headquarters, USAISC
 AS15353 Xentain Solutions Inc.
 AS15366 DNS:NET Internet Service GmbH
 AS15435 DELTA Fiber Nederland B.V.
+AS15497 1 Cloud Lab s.r.o.
 AS15502 Vodafone Ireland Limited
 AS1555 DoD Network Information Center
 AS15557 Societe Francaise Du Radiotelephone - SFR SA
+AS156 Northeastern University
 AS15600 Quickline AG
+AS1562 DoD Network Information Center
+AS15626 ITL LLC
+AS157 Silicon Graphics International Corp.
 AS15704 XTRA TELECOM S.A.
 AS15728 Radio Muzyka Fakty Sp. z o.o.
 AS15735 GO p.l.c.
 AS15796 Salt Mobile SA
+AS159 Ohio State University
 AS15943 wilhelm.tel GmbH
 AS15958 CETIN Ltd. Belgrade
+AS16 Lawrence Berkeley National Laboratory
 AS160 The University of Chicago
 AS16019 Vodafone Czech Republic a.s.
 AS16075 TAZ Verlags- und Vertriebsgesellschaft mit beschraenkter Haftung Berlin
 AS16086 DNA Oyj
+AS161 Texas Instruments
 AS1611 Mabel Cooperative Telephone Company
 AS16117 Gavle Energi AB
+AS1612 Flux Telecom, LLC
+AS16125 UAB Cherry Servers
 AS16185 RINGNETT NORWAY
 AS1620 doelegal llc
 AS16202 Tele Columbus AG
+AS1627 TowneBank
+AS16276 OVH SAS
 AS16302 Suomi Communications Oy
 AS1634 Bluewater District School Board
 AS16342 Toya sp.z.o.o
+AS1650 Cambridge Public Schools
+AS16509 Amazon.com, Inc.
+AS1653 Vetenskapsradet / SUNET
 AS1659 Taiwan Academic Network (TANet) Information Center
 AS16591 Google Fiber Inc.
+AS166 Institute for Defense Analyses
 AS16652 Riseup Networks
 AS167 Wesleyan University
 AS16735 ALGAR TELECOM S/A
 AS16904 Arvig Enterprises Inc.
+AS17 Purdue University
+AS170 DoD Network Information Center
+AS1701 National Aeronautics and Space Administration
 AS17017 campuscolo.com
 AS173 Nippon Telegraph and Telephone Corporation
 AS17356 Vermont Telephone Company, Inc.
+AS174 Cogent Communications
 AS17488 Hathway IP Over Cable Internet
 AS17506 ARTERIA Networks Corporation
 AS1754 Deutsches Elektronen-Synchrotron DESY
@@ -995,9 +228,14 @@ AS17676 SoftBank Corp.
 AS1781 Korea Advanced Institute of Science and Technology
 AS17858 LG POWERCOMM
 AS17931 Netforest,Inc.
+AS18 University of Texas at Austin
 AS18106 Viewqwest Pte Ltd
 AS1835 Forskningsnettet - Danish network for Research and Education
 AS18460 Fort Hays State University
+AS1897 NOS COMUNICACOES, S.A.
+AS18978 Enzu Inc
+AS19 Leidos, Inc.
+AS190 Navy Network Information Center (NNIC)
 AS1904 DoD Network Information Center
 AS19045 Direct Communications Cedar Valley, LLC
 AS19108 Optimum
@@ -1005,7 +243,12 @@ AS19148 Leaseweb USA, Inc.
 AS1916 Rede Nacional de Ensino e Pesquisa
 AS19165 Webpass Inc.
 AS19201 Eastex Telephone Cooperative, Inc.
+AS19318 Interserver, Inc
+AS194 University Corporation for Atmospheric Research
+AS19437 SECURED SERVERS LLC
+AS195 San Diego Supercomputer Center
 AS19504 WTC Communications, Inc.
+AS196 The Boeing Company
 AS19668 PriceWaterhouseCoopers, LLP
 AS196682 FLP Kochenov Aleksej Vladislavovich
 AS1970 Texas A&M University
@@ -1015,11 +258,16 @@ AS19707 Summit Energy Tech LLC
 AS197071 active 1 GmbH
 AS19722 Niagara Frontier Transportation Authority
 AS197225 UAB Airnet
+AS1974 Southern Maine Medical Center
 AS197422 Tetaneutral.net Association declaree
 AS1975 PROQUEST LLC
 AS19754 The Fusion Network, LLC
 AS197540 netcup GmbH
 AS197566 OK-NET s.r.o.
+AS19764 Georgian College of Applied Arts & Technology
+AS197648 CLOUDLAYER8 LIMITED
+AS19770 Phoenix Contact Services, Inc.
+AS197706 Keminet SHPK
 AS197922 Techcrea Solutions SAS
 AS19809 NTT Global Networks Incorporated
 AS198093 Foreningen for digitala fri- och rattigheter
@@ -1028,8 +276,10 @@ AS19816 NCS DataCom, Inc.
 AS198161 Sokolovska uhelna, pravni nastupce, a.s.
 AS1982 Northwest Nexus Inc.
 AS198225 MDDSL - Mitteldeutsche Gesellschaft fuer Kommunikation mbH
+AS1983 Bernalillo County
 AS19838 Blue Water Networks
 AS198385 AlpineDC SA
+AS19844 SBA Edge, LLC
 AS198440 ALLPOINTS FIBRE NETWORKS LIMITED
 AS19861 Washington County Board of Education
 AS198610 Beget LLC
@@ -1044,27 +294,39 @@ AS199087 KaseNet oy
 AS19911 Neustar Security Services
 AS199118 Heinlein-Support GmbH
 AS199246 ENARTIA Single Member S.A.
+AS199524 G-Core Labs S.A.
+AS1996 Fairdinkum Consulting, LLC
+AS19969 Joe's Datacenter, LLC
 AS199765 Hostaris Limited
+AS1999 U.S. House of Representatives
 AS19994 Rackspace Hosting
 AS19995 VSE Corporation
 AS199950 HJELM ENTERPRISES AB
 AS199967 Think Huge Ltd
 AS199968 IWS NETWORKS LLC
+AS2 University of Delaware
+AS20 University of Rochester
+AS20001 Charter Communications Inc
+AS200019 ALEXHOST SRL
 AS20005 SANDHILLS PUBLISHING
 AS200052 Feral.io Ltd
 AS200136 LibraHost
+AS2002 Kyndryl
 AS200223 Lars Jannick Volkers trading as Etheron Hosting
 AS200233 Berner Fachhochschule
 AS200462 Lennart Seitz trading as "ETH-Services"
 AS200490 Felix Annen
 AS200514 KnownSRV Ltd.
 AS200519 NYNEX satellite OHG
+AS20053 The Descartes Systems Group Inc.
 AS200533 Civil association Init Lab
 AS20055 Wholesail networks LLC
 AS200651 Flokinet Ltd
 AS200713 Zettaplan AG
 AS20091 City of Martinsville, VA
 AS200918 Pavel Zizka
+AS20101 Michwave Technologies, Inc.
+AS201011 Core-Backbone GmbH
 AS2011 Wells Fargo & Company
 AS201133 Verdina Ltd.
 AS20114 KEATING,MUETHING  KLEKAMP,P.L.L.
@@ -1073,15 +335,22 @@ AS20115 Charter Communications
 AS2013 PG&E
 AS20130 Depaul University
 AS201308 Castlegem SRL
+AS2015 Msen, Inc.
 AS201579 HOSTGNOME LTD
+AS20168 Precor Incorporated
+AS201682 Liquid Web B.V.
+AS2018 TENET (The UNINET Project)
 AS201814 MEVSPACE sp. z o.o.
 AS201838 Community Fibre Limited
+AS202 Level 3 Parent, LLC
+AS2021 Unisys Corporation
 AS20213 Gifford Wireless Inc
 AS202131 ISP Alliance a.s.
 AS20214 Comcast Cable Communications, LLC
 AS20228 Navajo Tribal Utility Authority
 AS202282 FIBRUS NETWORKS LTD
 AS202302 NETH LLC
+AS2024 Eversource Energy
 AS20240 VENTURA FOODS, LLC
 AS202401 Webhosting24 GmbH
 AS20242 GENESCO INC
@@ -1091,11 +360,17 @@ AS2025 University of Toledo
 AS20258 Analog Devices, Inc.
 AS202585 Nick Bouwhuis
 AS202662 Hytron Network Services Limited
+AS2027 MilkyWan Association
 AS202759 RJ Network OU
+AS20278 Nexeon Technologies, Inc.
 AS202914 Adeo Datacenter ApS
 AS202921 CC INTERNET s.r.o.
+AS203 Level 3 Parent, LLC
+AS2030 The Boeing Company
 AS20300 Woodstock Telephone Company
 AS203003 Magna Capax Finland Oy
+AS20302 City of Palm Coast
+AS203020 HostRoyale Technologies Pvt Ltd
 AS2033 Panix Network Information Center
 AS20338 My Telepath, Inc
 AS203380 DA International Group Ltd.
@@ -1110,18 +385,28 @@ AS20372 Office of Management and Budget
 AS203727 Daniil Yevchenko
 AS20395 Med Fusion, LLC
 AS203953 Hiper A/S
+AS2041 St. Norbert College
+AS20419 DMR Communications Inc.
+AS204196 Abelohost BV
+AS2044 Digital Fortress
 AS20447 Cenveo Worldwide Limited
 AS204471 2S Computers SRL
+AS20454 SECURED SERVERS LLC
+AS204548 Kamatera Inc
 AS2046 DoD Network Information Center
 AS204615 IP Fiber Inc
 AS20464 HP Inc.
 AS204641 HOSTGW SRL
+AS2047 Hoffmann - La Roche Ltd.
+AS20473 The Constant Company, LLC
 AS20477 Randolph Telephone Company
 AS204770 UAB Cherry Servers
 AS204779 Local Loop Oy
+AS20491 WASKO S.A.
 AS204911 Digitale Partizipation e.V.
 AS20495 We Dare B.V.
 AS204957 GREEN FLOID LLC
+AS205 Montclair State University
 AS205007 Maxim Azarov trading as eServer
 AS20510 Nexum Hungary Internet Service Provider Ltd.
 AS205100 F3 Netze e.V.
@@ -1141,6 +426,7 @@ AS20572 Giesecke & Devrient GmbH
 AS205727 Aruba S.p.A.
 AS20576 Gazprom telecom LLC
 AS205766 Jonas Pasche
+AS206 DXC US Latin America Corporation
 AS20612 SwissIX Internet Exchange
 AS206125 Nicklas Yli-Lantta
 AS206216 Advin Services LLC
@@ -1152,6 +438,7 @@ AS2067 Renater
 AS20676 Plusnet GmbH
 AS20677 imos Gesellschaft fuer Internet-Marketing und Online-Services mbH
 AS206774 Internet bolaget Sverige AB
+AS206804 EstNOC OY
 AS20708 SKODA AUTO a.s.
 AS207083 HostSlim B.V.
 AS20712 Andrews & Arnold Ltd
@@ -1172,9 +459,11 @@ AS207656 Epinatura LLC
 AS20766 Association "Gitoyen"
 AS20771 Caucasus Online Ltd.
 AS207713 GLOBAL INTERNET SOLUTIONS LLC
+AS20773 Host Europe GmbH
 AS207781 Marcel Menzel
 AS20791 BitPoint AG
 AS207916 Velocity1 Limited
+AS20799 Datanet.co.uk Ltd
 AS207992 FEELB SARL
 AS20804 Exatel S.A.
 AS208046 ColocationX Ltd.
@@ -1184,20 +473,24 @@ AS208208 Marco Witzgall trading as Cyberse GmbH & Co. KG
 AS208258 Access2.IT Group B.V.
 AS20832 Southern Communications Ltd
 AS208323 Foundation for Applied Privacy
+AS20836 CDLAN SpA
 AS208367 CSpace Hostings OU
 AS20845 DIGI Tavkozlesi es Szolgaltato Kft.
 AS20847 Previder B.V.
 AS208476 Danilenko, Artyom
 AS20853 eTOP sp. z o.o.
 AS20857 Signet B.V.
+AS20860 IOMART CLOUD SERVICES LIMITED
 AS208621 LogicForge Limited
 AS208626 ServTech LTD
 AS2088 Renater
 AS20880 Tele Columbus AG
 AS2089 Renater
 AS208942 David Weber
+AS209 CenturyLink Communications, LLC
 AS20904 Cinia Oy
 AS209045 Genesis Cloud Limited
+AS20910 Baltcom SIA
 AS2094 Renater
 AS20942 Intesa Sanpaolo S.p.A.
 AS209424 FASTSPEED A/S
@@ -1209,6 +502,8 @@ AS209641 I-SERVERS LTD
 AS20969 Red Bee Media B.V.
 AS209696 NILSAT Ltd.
 AS209825 Katanytsia Lyubov Viktorivna
+AS21 The RAND Corporation
+AS210 Utah Education Network
 AS210079 EuroByte LLC
 AS21008 Comlink Telecom Ltd.
 AS210083 Privex Inc.
@@ -1216,14 +511,20 @@ AS21021 Multimedia Polska Sp. z o.o.
 AS210218 Open Fiber S.P.A.
 AS210226 Windcloud 4.0 GmbH
 AS210278 Sky Italia srl
+AS2103 Renater
+AS21032 TELTA Citynetz GmbH
+AS210329 Kamatera Inc
 AS210352 Partner LLC
 AS210558 1337 Services GmbH
+AS21063 DAL Deutsche Afrika-Linien GmbH & Co.KG
 AS210630 IncogNET LLC
 AS21064 University of Warmia and Mazury in Olsztyn, Poland
 AS210644 AEZA INTERNATIONAL LTD
 AS2107 ARNES
 AS210731 Forening for DotSrc
 AS2108 Croatian Academic and Research Network
+AS2110 BT Communications Ireland Limited
+AS21100 ITL LLC
 AS211215 Fibernet Finland Oy
 AS21130 IOMART CLOUD SERVICES LIMITED
 AS211301 Collin Schneeweiss
@@ -1242,11 +543,15 @@ AS211882 AQUILENET
 AS2119 Telenor Norge AS
 AS212027 Daniel Jackson
 AS212050 Morten Soerensen trading as Din-Server
+AS2121 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)
 AS21211 Penkiu kontinentu komunikaciju centras, Ltd.
+AS212238 Datacamp Limited
 AS21226 Krasnoyarsk PTUS
 AS212263 Rocket Fibre Ltd
 AS21227 OLiKA Networks
 AS212271 Cinzia Tocci trading as C1V
+AS21231 PJSC Aeroflot
+AS212317 Hetzner Online GmbH
 AS21247 IP SYNERGIES
 AS212477 RoyaleHosting BV
 AS21250 Bahnhof AB
@@ -1258,6 +563,9 @@ AS21266 Moscow Communication Center of Energy AO
 AS212663 Remote Admin Sp. Z o.o.
 AS21274 State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)
 AS212744 Albanian Hosting SH.P.K.
+AS213 Headquarters, USAISC
+AS21323 Erste&Steiermarkische Bank d.d.
+AS213230 Hetzner Online GmbH
 AS21325 Tiesu Namu Agentura SIA
 AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG
 AS21334 Vodafone Hungary Ltd.
@@ -1285,40 +593,66 @@ AS21639 Blue Cross Blue Shield Of Louisiana
 AS216398 Yiff Ltd
 AS2164 HP Inc.
 AS216418 Filippo Sacco Comis Dell'Oste
+AS22 Navy Network Information Center (NNIC)
 AS22047 VTR BANDA ANCHA S.A.
+AS226 Los Nettos
+AS22612 Namecheap, Inc.
 AS2263 Renater
 AS22639 Cooptel Coop de Telecommunication
 AS22646 Hargray Communications Group, Inc.
 AS22773 Cox Communications Inc.
+AS229 Merit Network Inc.
 AS22987 BrightRidge
 AS22989 Free Software Foundation, Inc.
+AS23033 Wowrack.com
+AS231 Michigan State University
 AS23118 Skyline Telephone
 AS23470 ReliableSite.Net LLC
 AS23655 2degrees Networks Limited
+AS23881 UDomain Web Hosting Company Ltd
 AS23889 Mauritius Telecom Ltd
+AS239 University of Toronto
 AS23961 Misaka Network, Inc.
+AS24 National Aeronautics and Space Administration
 AS24282 KAGOYA JAPAN Inc.
 AS24589 Telenet SIA
 AS2462 Renater
 AS24620 Rigas Tehniska Universitate
 AS24757 Ethio Telecom
+AS24768 ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA
 AS24800 BornFiber Service Provider ApS
 AS24872 MAGNUS NG LLC
+AS24875 NovoServe B.V.
+AS2494 MUWNET Autonomous System
+AS24940 Hetzner Online GmbH
+AS2495 Kansas Research and Education Network
 AS24953 NETPLANET GmbH
 AS24955 JSC "Ufanet"
+AS2496 University of Kansas
+AS24961 myLoc managed IT AG
+AS2497 Internet Initiative Japan Inc.
+AS24971 Master Internet s.r.o.
+AS25 University of California at Berkeley
+AS250 AS250.net Foundation
 AS2505 High Energy Accelerator Research Organization, KEK
 AS25052 O.M.C. COMPUTERS & COMMUNICATIONS LTD
 AS2514 NTT PC Communications, Inc.
+AS2516 KDDI CORPORATION
 AS2519 ARTERIA Networks Corporation
+AS252 Headquarters, USAISC
 AS2527 Sony Network Communications Inc.
 AS2535 BP America, Inc.
 AS25353 BAR Informatik AG
+AS25369 Hydra Communications Ltd
 AS254 Attachmate Corp.
 AS25486 AirAccess GmbH trading as Lightup Network Solutions GmbH & Co. KG
 AS25512 CD-Telematika a.s.
 AS2559 VISA INTERNATIONAL SERVICE ASSOCIATION
 AS25596 Cambrium B.V.
 AS25668 Cipherkey Exchange Corp.
+AS258 Headquarters, USAISC
+AS25820 IT7 Networks Inc
+AS26 Cornell University
 AS260 GTT
 AS2603 NORDUnet
 AS26042 FiberState, LLC
@@ -1326,11 +660,13 @@ AS2606 Wifiber.es SL
 AS26068 OnShore, Inc.
 AS2611 BELNET
 AS2614 Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si Cercetare
+AS26347 New Dream Network, LLC
 AS2636 LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT
 AS263608 WSNET TELECOM LTDA ME
 AS26381 HSBC Technology & Services (USA) Inc
 AS263812 SONDATECH S.A.S.
 AS26383 Baxet Group Inc.
+AS264 SRI International
 AS2640 Ames Laboratory
 AS26400 IAMO Telephone Company
 AS264009 INFIX TELECOM LTDA
@@ -1339,17 +675,24 @@ AS26548 PureVoltage Hosting Inc.
 AS267 Nether.Net
 AS2675 Shared Services Canada
 AS267546 GOIAS CONECT TELECOM EIRELI - ME
+AS268 Uniformed Services University of the Health Sciences
 AS2683 Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University
 AS26832 Rica Web Services
 AS26848 Principal Financial Group
 AS268482 Connect Telecomunicações LTDA
+AS2685 AT&T Corp.
+AS268581 QNAX LTDA
+AS27 University of Maryland
 AS270 National Aeronautics and Space Administration
 AS27005 Pinpoint Communications, Inc.
+AS271 BCnet
 AS27176 DataWagon LLC
+AS273 DoD Network Information Center
 AS2732 Valliant Telephone Co INC
 AS27323 Wowrack.com
 AS27364 Armstrong
 AS27411 Leaseweb USA, Inc.
+AS276 University of Texas System
 AS27651 ENTEL CHILE S.A.
 AS27715 Locaweb Serviços de Internet S/A
 AS27747 Telecentro S.A.
@@ -1366,9 +709,19 @@ AS28640 VIPWay Telecomunicações Ltda
 AS28685 Routit BV
 AS2872 Netcity Bilisim Teknolojileri Yazilim Internet Ve Iletisim Hizmetleri A.S
 AS28725 CETIN a.s.
+AS2875 Joint Institute for Nuclear Research
+AS28753 Leaseweb Deutschland GmbH
+AS288 European Space Agency (ESA)
+AS28855 Octopuce s.a.r.l.
+AS29 Yale University
+AS2906 Netflix Streaming Services Inc.
+AS29066 velia.net Internetdienste GmbH
 AS2907 Research Organization of Information and Systems, National Institute of Informatics
 AS29075 IELO-LIAZO SERVICES SAS
+AS291 ESnet
+AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL
 AS29134 Webglobe, s.r.o.
+AS2914 NTT America, Inc.
 AS29141 Bradler & Krantz GmbH & Co. KG
 AS29169 GANDI SAS
 AS292 ESnet
@@ -1376,15 +729,26 @@ AS29222 Infomaniak
 AS29278 Deninet KFT
 AS2928 Burlington Coat Factory Warehouse
 AS29287 Wien Energie GmbH
+AS293 ESnet
 AS29314 VECTRA S.A.
 AS29518 Bredband2 AB
 AS29551 Aixit GmbH
 AS29580 A1 Bulgaria EAD
+AS29691 Nine Internet Solutions AG
 AS29695 Altibox AS
+AS29802 HIVELOCITY, Inc.
+AS3 Massachusetts Institute of Technology
+AS30 SRI International
+AS300 DoD Network Information Center
 AS30036 Mediacom Communications Corp
+AS30058 FDCservers.net
+AS30083 GoDaddy.com, LLC
+AS306 DoD Network Information Center
 AS3060 York Technical College
 AS30600 Metronet
 AS3061 ProvDotNet LLC
+AS30633 Leaseweb USA, Inc.
+AS307 DoD Network Information Center
 AS30722 Vodafone Italia S.p.A.
 AS30764 PODA a.s.
 AS30766 GGew net GmbH
@@ -1393,8 +757,11 @@ AS30823 aurologic GmbH
 AS3083 Credit Suisse Group
 AS30836 23VNet Kft.
 AS30860 Virtual Systems LLC
+AS30900 Sternforth Ltd. trading as WebWorld
+AS31 California Institute of Technology
 AS31027 GlobalConnect A/S
 AS31034 Aruba S.p.A.
+AS31103 Keyweb AG
 AS31148 Freenet LTD
 AS31334 Vodafone Deutschland GmbH
 AS31371 Wissenschaftsladen Dortmund e.V.
@@ -1403,32 +770,59 @@ AS3173 Stanleyworks (Europe) GmbH
 AS31736 senseLAN GmbH
 AS31863 Centrilogic, Inc.
 AS31898 Oracle Corporation
+AS32 Stanford University
+AS320 DoD Network Information Center
+AS3209 Vodafone GmbH
+AS32097 WholeSale Internet, Inc.
+AS321 DoD Network Information Center
 AS3213 Bogons Ltd
 AS32133 Ting Fiber Inc.
 AS3215 Orange S.A.
 AS3216 PJSC "Vimpelcom"
 AS32167 LSHIY LLC
+AS3218 Federal State Budgetary Institution of Science "Space Research Institute of the Russian Academy of Sciences".
+AS32181 GigeNET
+AS322 DoD Network Information Center
+AS3223 Voxility LLP
+AS32244 Liquid Web, L.L.C
+AS323 DoD Network Information Center
 AS3232 ModernColo LP
 AS32329 Another Corporate ISP, LLC
+AS3233 Institutul National de Cercetare-Dezvoltare in informatica - ICI Bucuresti
+AS32338 Hostiserver Ltd
+AS324 DoD Network Information Center
 AS3242 ITnet S.r.l.
 AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+AS32489 Amanah Tech Inc.
 AS3249 Telia Eesti AS
+AS326 DoD Network Information Center
+AS3261 LLC "FTICOM"
+AS32613 iWeb Technologies Inc.
 AS3265 KPN B.V.
 AS3269 Telecom Italia S.p.A.
+AS328 DoD Network Information Center
 AS328364 Host Africa (Pty) Ltd
 AS328366 FIRSTNET TECHNOLOGY SERVICES (PTY) LTD
 AS3287 Redline LLC
 AS32872 Difficult Computing, LLC
 AS328720 Nerospec Networks (Pty) Ltd
+AS329 DoD Network Information Center
 AS3292 TDC Holding A/S
+AS33 HP Inc.
 AS3301 Telia Company AB
 AS3303 Swisscom (Schweiz) AG
+AS3308 Telia Company AB
+AS33083 AxcelX Technologies LLC
 AS3320 Deutsche Telekom AG
 AS33287 Comcast Cable Communications, LLC
 AS3329 VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA
+AS33387 Nocix, LLC
+AS334 DoD Network Information Center
 AS33490 Comcast Cable Communications, LLC
 AS33491 Comcast Cable Communications, LLC
+AS335 DoD Network Information Center
 AS3352 TELEFONICA DE ESPANA S.A.U.
+AS3356 Level 3 Parent, LLC
 AS33588 Charter Communications
 AS336 DoD Network Information Center
 AS3365 Seesip Inc.
@@ -1441,14 +835,17 @@ AS33660 Comcast Cable Communications, LLC
 AS33661 Comcast Cable Communications, LLC
 AS33667 Comcast Cable Communications, LLC
 AS33668 Comcast Cable Communications, LLC
+AS337 DoD Network Information Center
 AS33705 Digital Shape Technologies Inc.
 AS3379 Kaiser Foundation Health Plan, Inc.
 AS33796 BOLIGNET-AARHUS F.M.B.A.
+AS338 DoD Network Information Center
 AS33837 Fredrik Holmqvist
 AS3388 University of New Mexico
 AS33885 Telenor Sverige AB
 AS339 DoD Network Information Center
 AS33915 Vodafone Libertel B.V.
+AS34 University of Delaware
 AS340 DoD Network Information Center
 AS34001 SIA LIVAS NET
 AS3401 City of Seattle, Dept. of Admin. Services
@@ -1458,8 +855,10 @@ AS34222 ZONER a.s.
 AS34224 Neterra Ltd.
 AS3428 ESnet
 AS34288 Kantonsschule Zug
+AS346 DoD Network Information Center
 AS3462 Data Communication Business Group
 AS34665 Petersburg Internet Network ltd.
+AS347 DoD Network Information Center
 AS3470 DoD Network Information Center
 AS34700 MAXNET TELECOM, LTD
 AS34702 Aktsiaselts WaveCom
@@ -1467,52 +866,84 @@ AS3477 National Oceanic and Atmospheric Administration
 AS34779 T-2, d.o.o.
 AS348 DoD Network Information Center
 AS34878 Karlsruhe Institute of Technology
+AS349 DoD Network Information Center
 AS3491 PCCW Global, Inc.
 AS34911 ELDATA prazska s.r.o.
 AS34927 iFog GmbH
+AS34971 CDLAN SpA
+AS34989 ServeTheWorld AS
+AS35 The MITRE Corporation
 AS350 DoD Network Information Center
 AS35041 Binero AB
 AS351 DoD Network Information Center
 AS35100 Patrik Lagerman
 AS35179 Korbank S. A.
+AS352 DoD Network Information Center
+AS3527 National Institutes of Health
 AS35277 LLHOST INC. SRL
+AS353 DoD Network Information Center
+AS35366 ISPpro Internet KG
 AS35425 IOMART HOSTING LIMITED
 AS35426 NXT Initiative SAS
+AS35432 Cablenet Communication Systems plc
 AS35434 PirxNet Grzegorz Bialas
+AS35470 Signet B.V.
 AS3549 Level 3 Parent, LLC
 AS35492 FunkFeuer Wien - Verein zur Foerderung freier Netze
+AS355 DoD Network Information Center
 AS3551 Universidad Tecnologica de Panama
 AS35518 sasag Kabelkommunikation AG
 AS3559 Korea Telecom
 AS35592 Coolhousing s.r.o.
+AS356 DoD Network Information Center
+AS3561 CenturyLink Communications, LLC
 AS35612 EOLO S.p.A.
 AS35661 VIRTUA SYSTEMS SAS
 AS35680 Volia-Cable LLC
 AS35699 Adamo Telecom Iberia S.A.
 AS357 DoD Network Information Center
 AS35758 Rachamim Aviel Twito trading as A.B INTERNET SOLUTIONS
+AS359 DoD Network Information Center
+AS35916 MULTACOM CORPORATION
+AS360 DoD Network Information Center
+AS36007 Kamatera, Inc.
 AS36077 Dynamic ASP Inc.
+AS361 DoD Network Information Center
 AS3614 Dell, Inc.
 AS36149 Hawaiian Telcom Services Company, Inc.
+AS362 DoD Network Information Center
+AS36236 NetActuate, Inc
+AS3635 US Department of Commerce, Bureau of Economic Analysis
+AS36352 ColoCrossing
 AS36375 University of Michigan
+AS364 DoD Network Information Center
 AS36493 FIBERNETICS CORPORATION
+AS368 DoD Network Information Center
 AS3685 State University of New York at Buffalo
 AS36850 University of North Carolina at Chapel Hill
+AS37 Navy Network Information Center (NNIC)
+AS372 National Aeronautics and Space Administration
 AS37218 The University of Dodoma
+AS375 Tietoevry Oyj
 AS3758 SingNet
+AS376 Reseau d'Informations Scientifiques du Quebec (RISQ Inc.)
 AS37611 Afrihost (Pty) Ltd
 AS37680 Cool Ideas Service Provider (Pty) Ltd
 AS378 IUCC - Israel InterUniversity Computation Center
 AS3786 LG DACOM Corporation
 AS3790 RADIOGRAFICA COSTARRICENSE
+AS38 University of Illinois
 AS3813 Sogang University
 AS38136 Akari Networks
 AS38195 Superloop
+AS3842 InMotion Hosting, Inc.
+AS38731 Vietel - CHT Compamy Ltd
 AS39013 Sonicom OOD
 AS3925 ICOnetworks
 AS39251 NETGUARD Ltd.
 AS3927 RGnet OU
 AS39287 ab stract
+AS39326 HighSpeed Office Limited
 AS393408 University of Portland
 AS39375 Telekomunikacja Podlasie Sp. z o.o.
 AS3938 NTT America, Inc.
@@ -1521,9 +952,15 @@ AS393856 City of Westfield (Gas & Electric Light Department)
 AS393886 Leaseweb USA, Inc.
 AS39405 Eurofiber France SAS
 AS39421 Sapinet SAS
+AS3943 CISCO SYSTEMS, INC.
+AS39438 ITEL LLC
+AS394380 Leaseweb USA, Inc.
 AS39471 "Redakcija "Debet-Kredyt" LLC
 AS394711 Limenet
+AS39508 AXIANS ICT Austria GmbH
+AS395089 Hextet Systems
 AS395354 Starry, Inc.
+AS39572 DataWeb Global Group B.V.
 AS3958 Air Canada
 AS39585 Radio-Continental Ltd.
 AS395853 NYC Mesh Inc.
@@ -1540,6 +977,11 @@ AS396507 Emerald Onion
 AS396527 Massachusetts Institute of Technology
 AS3968 El Colegio de Mexico, A.C.
 AS396856 Sharon Networks, LLC
+AS39694 Credit Immobilier de France Developpement SA
+AS396948 Kamatera, Inc.
+AS396949 Kamatera, Inc.
+AS39698 Managementservice Kleka Sp. z o.o.
+AS396982 Google LLC
 AS397142 City of Fort Collins
 AS39727 ZZI d.o.o.
 AS397270 NetInformatik Inc.
@@ -1550,6 +992,8 @@ AS397423 Tier.Net Technologies LLC
 AS39771 Renault Trucks SAS
 AS397715 KPFA
 AS39788 Chaos Computer Club e.V.
+AS39798 MivoCloud SRL
+AS398 Air Force Systems Networking
 AS39810 The national operator of wireless communication "WiMAX-Ukraine"
 AS398101 GoDaddy.com, LLC
 AS39819 Optima Telecom Ltd.
@@ -1557,6 +1001,7 @@ AS39824 JSC Alma Telecommunications
 AS398242 Prentiss County Electric Power Association
 AS39835 GoeTel GmbH
 AS398355 Data Ideas llc.
+AS39839 Punktum dk A/S
 AS398395 Dot-Tech LLC
 AS39857 Aalto University Student Union
 AS399 Air Force Systems Networking
@@ -1574,8 +1019,11 @@ AS399629 BL Networks
 AS399686 SEMIBAND LLC
 AS399804 Hostodo
 AS399820 Atomic Networks LLC
+AS4 University of Southern California
+AS400 Air Force Systems Networking
 AS40000 Noblis, Inc.
 AS400006 DigitalMonks LLC
+AS40021 Nubes, LLC
 AS40029 Novus Entertainment Inc.
 AS400304 Redoubt Networks
 AS40056 Westgate Resorts Ltd
@@ -1591,6 +1039,9 @@ AS400771 Codehof LLC
 AS400846 Tampa Co-Op
 AS400861 0x7c0 Labs LLC
 AS40138 Mach Dilemma, LLC
+AS40244 Turnkey Internet Inc.
+AS406 Air Force Systems Networking
+AS40676 Psychz Networks
 AS40749 CLARKSVILLE DEPARTMENT OF ELECTRICITY
 AS409 Air Force Systems Networking
 AS40924 Harley Security Solutions LLC
@@ -1601,23 +1052,41 @@ AS41108 FirstRoot
 AS41164 Telia Norge AS
 AS4128 RGnet OU
 AS41281 KeFF Networks Ltd
+AS41436 Kamatera Inc
 AS41608 NextGenWebs, S.L.
 AS41634 Svea Hosting AB
+AS41653 Aqua Ray SAS
 AS41676 JMDI Jacek Maleszko
 AS41809 Enterpol Sp. z o.o.
 AS4181 TDS TELECOM
+AS42 WoodyNet, Inc.
 AS42159 Zemlyaniy Dmitro Leonidovich
 AS42237 w1n ltd
+AS4224 The Calyx Institute
 AS42275 Three Fourteen SASU
+AS42473 ANEXIA Internetdienstleistungs GmbH
 AS42487 Vialis SEM
+AS4262 California Education and Research Federation Network
 AS42621 LPOnet Osk Anl
 AS42675 Obehosting AB
+AS427 Air Force Systems Networking
+AS4270 Red de Interconexion Universitaria
+AS42708 GleSYS AB
+AS42730 EVANZO e-commerce GmbH
+AS4283 CenturyLink Communications, LLC
+AS42831 UK Dedicated Servers Limited
 AS42927 S-NET Sp. z o.o.
+AS43 Brookhaven National Laboratory
 AS43150 MK Netzdienste GmbH & Co. KG
 AS4318 Freeport-McMoRan Inc.
 AS43180 Virtual Systems LLC
+AS4319 Cortland Electronics Corp.
 AS43205 Bulsatcom EOOD
+AS43289 Trabia SRL
+AS43317 SIA VEESP
 AS43341 MDlink online service center GmbH
+AS43350 NForce Entertainment B.V.
+AS43513 Sia Nano IT
 AS43557 Norlys Fibernet A/S
 AS4364 IgLou Internet Services
 AS43641 SOLLUTIUM EU Sp z.o.o.
@@ -1625,7 +1094,10 @@ AS43847 Martin Prager trading as "NbIServ"
 AS4390 Bell Atlantic, Inc.
 AS43902 SysEleven GmbH
 AS43927 HOSTERION SRL
+AS44 Lawrence Livermore National Laboratory
 AS44034 Hi3G Access AB
+AS44050 Petersburg Internet Network ltd.
+AS44066 firstcolo GmbH
 AS441 Air Force Systems Networking
 AS4410 Credit Suisse Group
 AS44103 The Mastermind Holding B.V.
@@ -1645,37 +1117,56 @@ AS4474 TCT West, Inc.
 AS44812 IP SERVER LLC
 AS44820 Denis Pavlovich Semenyuk
 AS44869 FIBIA P/S
+AS44901 Belcloud LTD
 AS44925 1984 ehf
 AS44963 Stavtelecom LLC
+AS45 Lawrence Livermore National Laboratory
 AS45007 VIPNET PRIM Ltd
 AS45012 dogado GmbH
 AS4503 Grady Memorial Hospital
 AS45037 Hispaweb Network
 AS45045 FOP Kazakov Oleksandr Oleksandrovich
+AS45102 Alibaba (US) Technology Co., Ltd.
 AS4514 Paradise Valley Unified School District
 AS45144 Net Onboard Sdn Bhd - Quality & Reliable Cloud Hosting Provider
 AS45177 Devoli
+AS452 Air Force Systems Networking
 AS45250 Vocom International Telecommunications AP Area
+AS4538 China Education and Research Network Center
+AS45382 EHOSTICT
+AS4557 Rice University
 AS45570 Network Presence
 AS45629 JasTel Network International Gateway
 AS45731 ARDH GLOBAL INDONESIA, PT
 AS4583 West Publishing Corporation
 AS45839 Shinjiru Technology Sdn Bhd
+AS46 Rutgers, The State University
 AS46015 Exa Bytes Network Sdn.Bhd.
 AS4637 Telstra Global
 AS46375 Sonic Telecom LLC
+AS4647 Centra Networks
+AS46475 Limestone Networks, Inc.
+AS468 Air Force Systems Networking
 AS46841 Fork Networking, LLC
+AS46844 Sharktech
 AS4685 Asahi Net
 AS46887 Lightower Fiber Networks I, LLC
+AS47 University of Southern California
 AS47066 prgmr.com, Inc.
+AS4717 WIDE Project
+AS47172 Greenhost BV
 AS4739 Internode Pty Ltd
 AS47436 Omer Faruk Demirci
+AS47447 23M GmbH
 AS47544 IQ PL Sp. z o.o.
 AS47570 SIA Tet
+AS4758 National Informatics Centre
+AS47583 Hostinger International Limited
 AS4760 HKT Limited
 AS4761 INDOSAT Internet Network Provider
 AS47610 RWTH Aachen University
 AS4764 Aussie Broadband
+AS4766 Korea Telecom
 AS4767 Computer Science
 AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 AS4769 Exa Bytes Network Sdn.Bhd.
@@ -1683,6 +1174,7 @@ AS47692 Nessus GmbH
 AS4773 MobileOne Ltd. Mobile/Internet Service Provider Singapore
 AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
 AS47890 UNMANAGED LTD
+AS48 Navy Network Information Center (NNIC)
 AS48031 Ivanov Vitaliy Sergeevich
 AS4804 Microplex PTY LTD
 AS48101 Trooli Ltd
@@ -1691,6 +1183,7 @@ AS48314 Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG
 AS4837 CHINA UNICOM China169 Backbone
 AS48374 MH HOLDING AF 1. JUNI 2009 ApS
 AS48438 Corbina Telecom Llc.
+AS4851 Host Networks
 AS48514 Stiftelsen Chalmers Studenthem
 AS4855 Pacific Link Indonesia
 AS48550 SnapServ Ltd
@@ -1706,6 +1199,7 @@ AS48900 Info Data Center Ltd.
 AS4892 APPLIED SYSTEMS, INC
 AS48926 Pe3ny Net s.r.o.
 AS48927 ESEVEN DevOps GmbH
+AS49 US National Institute of Standards & Technology
 AS49042 Phanes Networks B.V.
 AS4922 Shenandoah Cable Television LLC
 AS49289 Media Veneto
@@ -1714,51 +1208,100 @@ AS49392 LLC Baxet
 AS4940 IAP World Service Inc
 AS49409 IVER NORGE AS
 AS49447 Nice IT Services Group Inc.
+AS49453 Global Layer B.V.
+AS49505 OOO "Network of data-centers "Selectel"
+AS49532 Eonix Corporation
+AS4954 Carroll County Government
+AS49544 i3D.net B.V
+AS49581 Ferdinand Zink trading as Tube-Hosting
 AS49601 UNITEL-MEDIA Sp. z o.o.
 AS4977 Vencore Services and Solutions, Inc.
 AS49770 Internetport Sweden AB
 AS49774 S.C. Interlink Banat S.R.L.
 AS49855 PLUTEX GmbH
 AS49889 Crystal Telecom Ltd
+AS49981 WorldStream B.V.
+AS5 WFA Group LLC
+AS50 Oak Ridge National Laboratory
 AS5026 Las Vegas Valley Water District
 AS50266 tmobile thuis
+AS50297 Infium, UAB
+AS50304 Blix Solutions AS
 AS50340 OOO "Network of data-centers "Selectel"
 AS50349 Radoslaw Walentowski trading as Timplus B.Dudek R.Walentowski sp.j.
 AS5036 Whalley Computer Associates
 AS50360 Tamatiya EOOD
+AS50613 Advania Island ehf
+AS50673 Serverius
 AS50840 Marek Bajerski trading as HITME.PL
 AS5089 Virgin Media Limited
+AS50968 Hostmaster, Ltd.
 AS50979 ITL LLC
+AS510 Voya Investment Management LLC
 AS51059 Brightbox Systems Ltd
+AS511 Prisma Health
+AS51167 Contabo GmbH
 AS5117 iNet Communications, LLC
 AS51177 TIPZOR MEDIA SRL
+AS51248 Host-Telecom.com s.r.o.
 AS51262 Internet Group AG
+AS51290 BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK
+AS513 CERN - European Organization for Nuclear Research
+AS51395 Datasource AG
 AS51396 Pfcloud UG
 AS51538 Lavrentyev Alkesandr Arkadievich
 AS51659 LLC Baxet
 AS51681 SINEASEN S.L.
 AS51741 Nextly SASU
 AS51744 Non-profit organization Jablonka.cz
+AS51765 Oy Crea Nova Hosting Solution Ltd
+AS518 DoD Network Information Center
 AS51815 GlobalConnect AB
+AS51852 Private Layer INC
+AS52 University of California, Los Angeles
+AS52048 DataClub S.A.
+AS52173 Sia Nano IT
 AS52228 Cable Tica
+AS52423 Data Miners S.A. ( Racknation.cr )
 AS53184 VERO S.A
 AS53486 Niagara Regional Broadband Networks Limited
+AS53667 FranTech Solutions
 AS5378 Vodafone Limited
+AS5385 Russmedia IT GmbH
+AS53850 GorillaServers, Inc.
 AS5408 National Infrastructures for Research and Technology S.A.
+AS5410 Bouygues Telecom SA
+AS542 Alberta Research Council
+AS5429 Telecommunications center UMOS, LLC
+AS54290 Hostwinds LLC.
 AS543 HP Inc.
 AS5432 Proximus NV
 AS54329 Sumofiber
+AS545 Corporation for National Research Initiatives
 AS54548 IONOS Cloud Inc.
+AS5483 Magyar Telekom plc.
 AS54858 Wave Broadband
+AS549 GTAnet Networking
+AS5491 Jan Olsson
+AS54913 Kamatera, Inc.
 AS54965 Polytechnic Institute of NYU
+AS55 University of Pennsylvania
 AS55081 24 SHELLS
 AS55103 Thin-nology, LLC
+AS5528 JSC BALTICOM
+AS55286 B2 Net Solutions Inc.
 AS553 Universitaet Stuttgart
 AS5543 Joint Stock Company TransTeleCom
 AS55430 Starhub Ltd
+AS555 Velocity Technology Solutions, Inc
 AS55592 Korea Data Telecommunication Co., Ltd.
 AS5568 Join-stock company "Internet Exchange"MSK-IX"
 AS55688 PT. Beon Intermedia
+AS557 University of Maine System
+AS5572 Botik Technologies LTD
+AS55720 Gigabit Hosting Sdn Bhd
+AS559 SWITCH
+AS56 DoD Network Information Center
 AS560 Level 3 Parent, LLC
 AS5602 IRIDEOS S.P.A.
 AS5603 Telekom Slovenije, d.d.
@@ -1766,19 +1309,31 @@ AS56030 Voyager Internet Ltd.
 AS5606 GTS Telecom SRL
 AS56067 453 Ladplacout Jorakhaebua
 AS5607 Sky UK Limited
+AS5610 O2 Czech Republic, a.s.
 AS56153 Digital Storage Company Limited
 AS5617 Orange Polska Spolka Akcyjna
 AS56300 MyRepublic Ltd.
+AS5632 Gordon College
+AS56322 ServerAstra Kft.
 AS5638 Brewer Science
 AS56380 ''IT FRUIT'' S.R.L.
 AS56381 level66.network UG (haftungsbeschraenkt)
 AS5645 TekSavvy Solutions, Inc.
 AS565 VTT Technical Research Centre of Finland Ltd
 AS5650 Frontier Communications of America, Inc.
+AS566 Shared Services Canada
+AS5663 US Geological Survery
+AS56630 Melbikomas UAB
 AS56655 TerraHost AS
 AS56803 Datasource AG
+AS57 University of Minnesota
+AS57043 HOSTKEY B.V.
+AS571 DoD Network Information Center
+AS5716 Cyber Access Internet Communications, Inc.
+AS57169 EDIS GmbH
 AS5719 State University of New York at Stony Brook
 AS57191 LLC IT Business
+AS572 Greater Baltimore Medical Center Inc
 AS5726 InterWorld Communications, Inc.
 AS57269 DIGI SPAIN TELECOM S.L.U.
 AS57271 BitWeb LLC
@@ -1787,45 +1342,69 @@ AS5740 WorkForce Software LLC
 AS57403 HFM S.R.L
 AS57494 Adman LLC
 AS5769 Videotron Ltee
+AS577 Bell Canada
 AS57717 FiberXpress BV
 AS57811 Redge Technologies sp. z o.o.
+AS57858 Angelnet Limited
 AS5786 University of Puerto Rico
 AS57860 Zencurity ApS
 AS57944 IP-Connect LLC
 AS58061 Scalaxy B.V.
+AS58073 YISP B.V.
 AS58212 dataforest GmbH
 AS58291 ColoCenter b.v.
 AS58294 CloudWall Ltd.
 AS58329 servinga GmbH
 AS58791 GMO Internet,Inc
+AS589 University of North Texas
 AS58915 Arktisma Pty Ltd
+AS59 University of Wisconsin Madison
+AS59253 Leaseweb Asia Pacific pte. ltd.
 AS59444 Andrzej Szreter AMSNET
 AS59491 Livenet Sp. z o.o.
+AS596 Level 3 Parent, LLC
 AS59684 Hoster kg, Ltd.
 AS59711 HZ Hosting Ltd
+AS5972 DoD Network Information Center
+AS59729 ITL LLC
 AS5974 DoD Network Information Center
 AS59741 Marco Sandro Naef
+AS6 ATOS IT Solutions and Services, Inc.
+AS600 OARnet
 AS60036 Voneus Ltd
+AS60117 Host Sailor Ltd
+AS60118 INVITE Systems SRL
 AS60131 High5! B.V.
 AS6025 DoD Network Information Center
 AS60251 Calypso IT Services GmbH
 AS60294 Deutsche Glasfaser Wholesale GmbH
+AS6040 DoD Network Information Center
+AS60404 Liteserver
 AS60522 KomMITT-Ratingen GmbH
+AS6056 Colby College
+AS60567 DataClub S.A.
 AS6057 Administracion Nacional de Telecomunicaciones
 AS60571 David Doepelheuer
 AS606 schat.net
 AS60602 Inovare-Prim SRL
 AS6072 Unisys Corporation
 AS60729 Zwiebelfreunde e.V.
+AS60781 LeaseWeb Netherlands B.V.
 AS6079 RCN
 AS6109 NDCHealth Corporation
 AS61098 Akenes SA
+AS611 NB-PEI Educational Computer Network
+AS61102 Interhost Communication Solutions Ltd.
 AS6111 ADVENTIST HEALTH SYSTEM/SUNBELT, INC.
 AS61112 AKILE LTD
 AS6112 Auburn University
 AS61125 SABOTAGE LLC
 AS61138 Zappie Host LLC
+AS61157 PlusServer GmbH
+AS6127 IDSC
+AS61272 Informacines sistemos ir technologijos, UAB
 AS61275 NEAS AS
+AS6128 Cablevision Systems Corp.
 AS61323 ANS ACADEMY LIMITED
 AS6142 Oracle Corporation
 AS61424 eServer s.r.o.
@@ -1836,19 +1415,35 @@ AS6181 Cincinnati Bell Telephone Company LLC
 AS619 DoD Network Information Center
 AS6199 Cooper Union
 AS61998 SzerverPlex.hu KFT.
+AS62 CyrusOne LLC
 AS6200 University of Illinois at Chicago
 AS62005 BlueVPS OU
+AS6224 CenturyLink Communications, LLC
+AS62240 Clouvider
 AS62248 MODIRUM MDPAY OU
+AS62282 UAB Rakrejus
+AS6233 xTom
 AS62336 PURtel.com GmbH
 AS62365 SachsenGigaBit GmbH
+AS6256 Verizon Business
+AS62563 GLOBALTELEHOST Corp.
+AS627 DoD Network Information Center
 AS62744 Quintex Alliance Consulting
+AS63 Massachusetts Institute of Technology
+AS63018 Dedicated.com
 AS6302 AG PROCESSING INC., A COOPERATIVE
 AS63023 GTHost
 AS6315 XMission, L.C.
+AS6319 Marriot Corporation
+AS63199 CDS Global Cloud Co., Ltd
 AS63267 Fayetteville Public Utilities
 AS6327 Shaw Communications Inc.
+AS634 DoD Network Information Center
+AS63473 HostHatch, LLC
 AS63806 Human-life Information Platforms Institute
 AS63930 READY SERVER PTE LTD
+AS6394 Intercontinental Exchange, Inc.
+AS63949 Akamai Connected Cloud
 AS63997 Tsukaeru.net, Web Hosting Company, Japan
 AS6407 Primus Telecommunications Canada Inc.
 AS64073 Vetta Online Ltd
@@ -1860,12 +1455,17 @@ AS6661 POST Luxembourg
 AS6696 VERIXI SA
 AS670 Headquarters, USAISC
 AS6703 PRIVATE JOINT-STOCK COMPANY "FARLEP-INVEST"
+AS671 Headquarters, USAISC
+AS6718 NAV COMMUNICATIONS SRL
+AS672 Headquarters, USAISC
+AS6724 Strato AG
 AS673 Headquarters, USAISC
 AS6730 Sunrise GmbH
 AS675 Minnesota State Colleges and Universities
 AS6752 ANDORRA TELECOM, S.A.U.
 AS679 Technische Universitat Wien
 AS6799 Ote SA (Hellenic Telecommunications Organisation)
+AS68 Los Alamos National Laboratory
 AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
 AS6805 Telefonica Germany GmbH & Co.OHG
 AS683 Argonne National Laboratory
@@ -1873,8 +1473,12 @@ AS6830 Liberty Global B.V.
 AS6848 Telenet BV
 AS6855 Slovak Telekom, a.s.
 AS6866 Cyprus Telecommunications Authority
+AS687 DoD Network Information Center
 AS6871 Plusnet
 AS6876 TENET Scientific Production Enterprise LLC
+AS693 University of Notre Dame
+AS6939 Hurricane Electric LLC
+AS7 The Defence Science and Technology Laboratory
 AS70 National Library of Medicine
 AS701 Verizon Business
 AS7015 Comcast Cable Communications, LLC
@@ -1884,7 +1488,11 @@ AS702 Verizon Business
 AS7029 Windstream Communications LLC
 AS719 Elisa Oyj
 AS7195 EDGEUNO SAS
+AS72 Schlumberger Limited
+AS7203 Leaseweb USA, Inc.
 AS7418 TELEFÓNICA CHILE S.A.
+AS7489 HostUS
+AS7506 GMO Internet,Inc
 AS7545 TPG Telecom Limited
 AS7552 Viettel Group
 AS7562 HCN Dongjak
@@ -1893,17 +1501,24 @@ AS77 Johns Hopkins University Applied Physics Laboratory
 AS7725 Comcast Cable Communications, LLC
 AS776 Renater
 AS7765 Koumbit
+AS78 BT Americas, Inc
 AS786 Jisc Services Limited
 AS792 Oracle Corporation
 AS7922 Comcast Cable Communications, LLC
 AS7992 Cogeco Connexion Inc.
+AS8 Rice University
 AS803 Saskatchewan Telecommunications
+AS807 FORK SYSTEMS
+AS8075 Microsoft Corporation
+AS81 MCNC
+AS8100 QuadraNet Enterprises LLC
 AS8151 UNINET
 AS82 Attachmate Corp.
 AS8218 Zayo Infrastructure France SA
 AS8283 Netwerkvereniging Coloclue
 AS833 Spearware Networks LLC
 AS8339 kabelplus GmbH
+AS84 Navy Network Information Center (NNIC)
 AS8400 TELEKOM SRBIJA a.d.
 AS8412 T-Mobile Austria GmbH
 AS8422 NetCologne Gesellschaft fur Telekommunikation mbH
@@ -1912,7 +1527,11 @@ AS8437 Hutchison Drei Austria GmbH
 AS8447 A1 Telekom Austria AG
 AS846 SOLV Energy, LLC
 AS8468 Cityfibre Limited
+AS8473 Bahnhof AB
+AS85 The Aerospace Corporation
 AS852 TELUS Communications Inc.
+AS855 Bell Canada
+AS8560 IONOS SE
 AS861 GONET
 AS8612 Tiscali Italia S.P.A.
 AS863 GONET
@@ -1940,12 +1559,18 @@ AS886 COLLECTIVITE DE SAINT BARTHELEMY
 AS8866 Vivacom Bulgaria EAD
 AS8873 Alexander Wagberg trading as Wberg Networks
 AS8881 1&1 Versatel Deutschland GmbH
+AS89 Navy Network Information Center (NNIC)
 AS8916 Portfast Ltd
 AS892 Emergent Biosolutions
 AS8926 Moldtelecom SA
 AS8943 Jump Networks Ltd
 AS8953 Orange Romania S.A.
+AS897 Turtle Rock Studios, Inc.
+AS8972 Host Europe GmbH
+AS9 Carnegie Mellon University
+AS900 WAA
 AS9008 Visual Online S.A.
+AS9009 M247 Europe SRL
 AS903 Unified Communications Technologies, LLC
 AS9031 EDPNET Belgium BV
 AS9044 BSE Software GmbH
@@ -1955,11 +1580,14 @@ AS9063 VSE NET GmbH
 AS9066 EWE TEL GmbH
 AS9070 Cooolbox AD
 AS9087 Rackdog, LLC
+AS91 Rensselaer Polytechnic Institute
 AS910 RTA
 AS9105 TalkTalk Communications Limited
 AS9136 Wobcom GmbH
 AS9145 EWE TEL GmbH
+AS92 Clarkson University
 AS9269 Hong Kong Broadband Network Ltd.
+AS93 NTT America, Inc.
 AS9371 SAKURA Internet Inc.
 AS9381 HKBN Enterprise Solutions HK Limited
 AS9443 Vocus Retail
@@ -1968,5 +1596,7 @@ AS9534 Binariang Berhad
 AS97 NTT America, Inc.
 AS979 NetLab Global
 AS9790 Two Degrees Networks Limited
+AS98 The Rockefeller University
+AS982 Packetframe
 AS9829 National Internet Backbone
 AS9931 The Communication Authoity of Thailand, CAT
