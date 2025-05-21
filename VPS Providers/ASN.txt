@@ -130,3 +130,11 @@ AS18779 EGIHosting
 AS263702 GRUPO ZGH SPA
 AS45090 Shenzhen Tencent Computer Systems Company Limited
 AS36666 GloboTech Communications
+AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG (DeinServerHost)
+AS14586 Nuclearfallout Enterprises, Inc.
+AS32374 Nuclearfallout Enterprises, Inc.
+AS32751 Nuclearfallout Enterprises, Inc.
+AS214505 Nuclearfallout Enterprises, Inc.
+AS393458 Nuclearfallout Enterprises, Inc.
+AS400475 Nuclearfallout Enterprises, Inc.
+AS401263 Nuclearfallout Enterprises, Inc.
